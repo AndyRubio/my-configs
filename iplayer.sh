@@ -4,6 +4,50 @@ shopt -s expand_aliases
 
 alias gip='get_iplayer --file-prefix="<name> - <episode> <pid> <version>" --pid '
 
+# The Listening Service
+gip b078n25h --pid-recursive  --cuesheet 
+
+# Opera Italia
+gip b00sll44 --pid-recursive 
+
+# YOung Dancer
+gip b07gbzxt --pid-recursive  
+
+# Hidden
+gip p066st1w --pid-recursive  
+
+# La Voix Humaine
+gip m0016drh
+
+# A Life on the Box: Arthur Lowe
+gip b00g50v3
+
+# Wildlife
+gip m001110k
+
+# Nigel Slater's Middle East
+gip b09qq7g8  --pid-recursive  
+
+# Sounds of the 70s with Johnnie Walker
+gip b00jlwqd  --pid-recursive  --cuesheet 
+
+# Pick of the Pops
+gip b006wqx7  --pid-recursive  --cuesheet 
+
+# Alvin Ailey: A Legend of American Dance
+gip m0016ccs
+
+# Stunning Soloists at the BBC
+gip b08kgqy0
+
+# Banned! The Mary Whitehouse Story
+gip m0015xrx  --pid-recursive
+
+# The Challenger
+gip p00zstkn
+
+# House of Maxwell
+gip p0b64mbt --pid-recursive
 
 # Secret Knowledge
 gip b01rfzgy --pid-recursive
