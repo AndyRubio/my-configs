@@ -4,6 +4,60 @@ shopt -s expand_aliases
 
 alias gip='get_iplayer --file-prefix="<name> - <episode> <pid> <version>" --pid '
 
+# Inside No. 9
+# gip b05p650r  --pid-recursive 
+
+# Between the Ears
+gip b006x2tq --pid-recursive  --cuesheet 
+
+# Wogan: The Best Of
+gip b05n8zwd --pid-recursive 
+
+# The Other Side of Hope
+gip m000f8ww
+
+# The Terror: Infamy
+gip p0c24xpz --pid-recursive 
+
+# Paul Merson - A Walk Through My Life
+gip m00170xj
+
+# The RKO Story: Tales from Hollywood
+gip b00gfzjr --pid-recursive 
+
+# Armando's Tale of Charles Dickens
+gip b0195pt7
+
+# The Two Faces of January
+gip m00170ns
+
+# Muhammad Ali Ken Burns
+gip p0bk0f64  --pid-recursive 
+
+# Prisoner C33
+gip m001708y
+
+# New Generation Artists Presents
+gip m001708w   --pid-recursive 
+
+# A White, White Day
+gip m000z2cj
+
+# Miles Davis: Birth of the Cool
+gip m000ggdf
+
+# The Outlaw
+gip b00zp6cd
+
+# Rebuilding Notre-Dame
+gip m0016z46  --pid-recursive 
+
+# Darcey Bussell: Dancing to Happiness
+gip b0btt5n1
+
+# The RKO Story: Tales from Hollywood
+gip b00gfzjr --pid-recursive 
+
 # The Listening Service
 gip b078n25h --pid-recursive  --cuesheet 
 
