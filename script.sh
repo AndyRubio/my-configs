@@ -16,8 +16,8 @@ cp ~/Library/Application\ Support/Google/Chrome/Default/Bookmarks.bak  Bookmarks
 
 
 # commit and push to github
-git status
 rm -f .git/index.lock
 git add . 
+git status
 git commit -m "commit" 
 git push
