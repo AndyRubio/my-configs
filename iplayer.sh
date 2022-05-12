@@ -4,6 +4,9 @@ shopt -s expand_aliases
 
 alias gip='get_iplayer --file-prefix="<name> - <episode> <pid> <version>" --pid '
 
+# Spinal Tap
+gip m0017h4l
+
 # Inside No. 9
 # gip b05p650r  --pid-recursive 
 
