@@ -4,6 +4,9 @@ shopt -s expand_aliases
 
 alias gip='get_iplayer --file-prefix="<name> - <episode> <pid> <version>" --pid '
 
+# Eurovision
+gip b0070hvg  --pid-recursive 
+
 # Spinal Tap
 gip m0017h4l
 
