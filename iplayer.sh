@@ -3,6 +3,10 @@
 shopt -s expand_aliases
 
 alias gip='get_iplayer --file-prefix="<name> - <episode> <pid> <version>" --pid '
+alias myconfig=''
+
+# Mighty Boosh
+gip b007wds5  --pid-recursive 
 
 # Floodlights
 gip m0017h6t  --pid-recursive 
@@ -1376,3 +1380,4 @@ echo "############################################# end University Challenge"
 echo ""
 
 
+./my-config.sh
