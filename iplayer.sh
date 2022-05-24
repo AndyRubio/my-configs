@@ -5,6 +5,10 @@ shopt -s expand_aliases
 alias gip='get_iplayer --file-prefix="<name> - <episode> <pid> <version>" --pid '
 alias myconfig=''
 
+
+# Panorama
+gip m001830q
+
 # Mighty Boosh
 gip b007wds5  --pid-recursive 
 
