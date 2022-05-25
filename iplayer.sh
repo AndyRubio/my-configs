@@ -5,6 +5,8 @@ shopt -s expand_aliases
 alias gip='get_iplayer --file-prefix="<name> - <episode> <pid> <version>" --pid '
 alias myconfig=''
 
+start=$(date +"%T")
+
 
 # Panorama
 gip m001830q
@@ -1385,3 +1387,7 @@ echo ""
 
 
 ./my-config.sh
+
+finish=$(date +"%T")
+echo "START : $start"
+echo "FINISH : $finish"
