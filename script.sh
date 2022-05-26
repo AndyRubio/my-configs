@@ -13,7 +13,7 @@ cp ~/iplayer.sh  iplayer.sh
 
 # get bookmarks and copy to folder
 cp ~/Library/Application\ Support/Google/Chrome/Default/Bookmarks.bak  Bookmarks.bak 
-
+cp ~/Library/Application\ Support/Google/Chrome/Default/Bookmarks  Bookmarks
 
 # commit and push to github
 rm -f .git/index.lock
