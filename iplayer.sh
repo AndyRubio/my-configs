@@ -1389,5 +1389,7 @@ echo ""
 ./my-config.sh
 
 finish=$(date +"%T")
+echo ""
+echo ""
 echo "START : $start"
 echo "FINISH : $finish"
