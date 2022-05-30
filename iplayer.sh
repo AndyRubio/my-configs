@@ -7,7 +7,6 @@ alias myconfig=''
 
 start=$(date +"%T")
 
-
 # Panorama
 gip m001830q
 
