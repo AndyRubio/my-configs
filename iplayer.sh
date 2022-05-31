@@ -7,8 +7,9 @@ alias myconfig=''
 
 start=$(date +"%T")
 
+
 # Panorama
-gip m001830q
+gip b006t14n  --pid-recursive 
 
 # Mighty Boosh
 gip b007wds5  --pid-recursive 
