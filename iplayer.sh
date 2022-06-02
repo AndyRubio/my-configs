@@ -7,6 +7,32 @@ alias myconfig=''
 
 start=$(date +"%T")
 
+
+
+# Brooklyn
+gip b06vyf02
+
+# Radioactive
+gip --pid-recursive 
+
+# Glastonbury 
+gip b007r6vx --pid-recursive 
+
+# Lullaby
+gip m0018364
+
+# Female Filmmakers: BBC Introducing Arts
+gip m000fzm7
+
+# John Buchan: Master of Suspense
+gip b0074t6x --pid-recursive 
+
+# I Walked with a Zombie
+gip b0078t0v
+
+# The 15 Billion Pound Railway
+gip b08ry6fy  --pid-recursive 
+
 # Radio 1's Future Dance with Sarah Story
 gip m000zc82 --pid-recursive  --cuesheet 
 
@@ -14,7 +40,7 @@ gip m000zc82 --pid-recursive  --cuesheet
 gip b00f3pc4  --pid-recursive  --cuesheet 
 
 # Radio 1 dance
-gip m0009y7t  --pid-recursive  --cuesheet 
+# gip m0009y7t  --pid-recursive  --cuesheet 
 
 # Panorama
 gip b006t14n  --pid-recursive 
