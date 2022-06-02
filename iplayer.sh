@@ -7,6 +7,14 @@ alias myconfig=''
 
 start=$(date +"%T")
 
+# Radio 1's Future Dance with Sarah Story
+gip m000zc82 --pid-recursive  --cuesheet 
+
+# Radio 1's Classic Essential Mix
+gip b00f3pc4  --pid-recursive  --cuesheet 
+
+# Radio 1 dance
+gip m0009y7t  --pid-recursive  --cuesheet 
 
 # Panorama
 gip b006t14n  --pid-recursive 
