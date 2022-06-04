@@ -15,6 +15,9 @@ cp ~/iplayer.sh  iplayer.sh
 cp ~/Library/Application\ Support/Google/Chrome/Default/Bookmarks.bak  Bookmarks.bak 
 cp ~/Library/Application\ Support/Google/Chrome/Default/Bookmarks  Bookmarks
 
+# copy chrome cookies file
+cp ~/youtube.com_cookies.txt youtube.com_cookies.txt
+
 # commit and push to github
 rm -f .git/index.lock
 git add . 
