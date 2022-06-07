@@ -1,5 +1,5 @@
 {
-   "checksum": "88389dbbaf9c6bd9d1bcd29d9d428fdf",
+   "checksum": "2e5b9a7968b86930e6e02bfeaf56ceca",
    "roots": {
       "bookmark_bar": {
          "children": [ {
@@ -24890,7 +24890,7 @@
             "id": "5244",
             "name": "Mercure Hotel Panorama Freiburg - Google Maps",
             "type": "url",
-            "url": "https://www.google.com/maps/place/Mercure+Hotel+Panorama+Freiburg/@48.0015686,7.8643158,16.62z/data=!4m8!3m7!1s0x47911c8ad3124baf:0xcbbd30d8df22573c!5m2!4m1!1i2!8m2!3d48.0073219!4d7.8720999!5m1!1e4"
+            "url": "https://www.google.com/maps/place/Mercure+Hotel+Panorama+Freiburg/@48.0062489,7.8620198,16z/data=!4m8!3m7!1s0x47911c8ad3124baf:0xcbbd30d8df22573c!5m2!4m1!1i2!8m2!3d48.0073219!4d7.8720999!5m1!1e4"
          }, {
             "date_added": "13298933194660804",
             "guid": "4a7017f1-1b4a-45bb-8a8e-16c83e5d364e",
@@ -36122,7 +36122,7 @@
             "url": "https://www.google.com/maps/place/Station+Rd,+Peterlee/@54.7857918,-1.3223462,17z/data=!3m1!4b1!4m5!3m4!1s0x487e602411f7f34b:0x1a4f110da42d90f7!8m2!3d54.7857918!4d-1.3201575"
          } ],
          "date_added": "13291147100367045",
-         "date_modified": "13298937334577652",
+         "date_modified": "13299018506445228",
          "guid": "0bc5d13f-2cba-5d74-951f-3f233fe6c908",
          "id": "1",
          "name": "Bookmarks Bar",
