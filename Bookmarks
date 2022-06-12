@@ -1,5 +1,5 @@
 {
-   "checksum": "bf66f3d5b0f282660e4d798973e9123b",
+   "checksum": "a52a0d6d5e2c430dfb1b54f7281c3ad2",
    "roots": {
       "bookmark_bar": {
          "children": [ {
@@ -24885,12 +24885,12 @@
             "name": "Bookmarks",
             "type": "folder"
          }, {
-            "date_added": "13299352616196643",
-            "guid": "3c3803a0-90d3-438f-adfe-1c439a9b4b28",
-            "id": "5253",
-            "name": "What to do if you CAN'T FINISH?! | Delayed Ejaculation ft. Dr. Alex Tatem - YouTube",
+            "date_added": "13299494488252626",
+            "guid": "48d3e034-534b-462d-b5e6-11c9cf562775",
+            "id": "5257",
+            "name": "Free Event - Deep Learning & Memorisation (2022-06-11)",
             "type": "url",
-            "url": "https://www.youtube.com/watch?v=doCHAMWw4yg&t=39s"
+            "url": "https://vimeo.com/719450341/fc52a86ab3"
          }, {
             "date_added": "13298930521245803",
             "guid": "f7edf451-3156-411c-a67d-61f6c337aa8e",
@@ -36129,7 +36129,7 @@
             "url": "https://www.google.com/maps/place/Station+Rd,+Peterlee/@54.7857918,-1.3223462,17z/data=!3m1!4b1!4m5!3m4!1s0x487e602411f7f34b:0x1a4f110da42d90f7!8m2!3d54.7857918!4d-1.3201575"
          } ],
          "date_added": "13291147100367045",
-         "date_modified": "13299364177735925",
+         "date_modified": "13299495436657847",
          "guid": "0bc5d13f-2cba-5d74-951f-3f233fe6c908",
          "id": "1",
          "name": "Bookmarks Bar",
