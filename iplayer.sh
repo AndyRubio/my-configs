@@ -7,8 +7,11 @@ alias myconfig=''
 
 start=$(date +"%T")
 
+# Sherwood
+gip p0c724lz  --pid-recursive 
+
 # Our Classical Century
-gip b0bs70hk --pid-recursive 
+gip b0bs70hkc
 
 # The 15 Billion Pound Railway
 gip b08ry6fy --pid-recursive 
