@@ -7,6 +7,12 @@ alias myconfig=''
 
 start=$(date +"%T")
 
+# In Tune Mixtape
+gip b096ykj4 b096ykj4   --cuesheet 
+
+# Ellie & natasia
+gip p0c99012 --pid-recursive 
+
 # Sherwood
 gip p0c724lz  --pid-recursive 
 
