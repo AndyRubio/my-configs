@@ -8,7 +8,7 @@ alias myconfig=''
 start=$(date +"%T")
 
 # Listening service
-# gip b078n25h b096ykj4   --cuesheet
+gip b078n25h --pid-recursive  --cuesheet
 
 # Maria by Callas
 gip m000qphk

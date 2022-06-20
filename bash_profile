@@ -9,4 +9,5 @@ alias cip='code iplayer.sh'
 alias ipl='./iplayer.sh'
 alias ablemore='open -n /Applications/Ableton\ Live\ 11\ Suite.app'
 alias config='./my-config.sh'
+alias bu='brew upgrade '
 eval "$(/opt/homebrew/bin/brew shellenv)"
