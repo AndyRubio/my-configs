@@ -7,6 +7,9 @@ alias myconfig=''
 
 start=$(date +"%T")
 
+# The Terror
+gip p0954ks6 --pid-recursive 
+
 # Listening service
 gip b078n25h --pid-recursive  --cuesheet
 
