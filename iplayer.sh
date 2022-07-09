@@ -7,6 +7,12 @@ alias myconfig=''
 
 start=$(date +"%T")
 
+# Inside Music
+gip b09ymqfk --pid-recursive  --cuesheet
+
+# This Classical Life
+gip m0018yjm --pid-recursive  --cuesheet
+
 # The Terror
 gip p0954ks6 --pid-recursive 
 

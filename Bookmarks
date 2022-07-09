@@ -1,5 +1,5 @@
 {
-   "checksum": "b8c777b5d9da3f1cbc6511acd10c6780",
+   "checksum": "2f425b7c4e7de2140388e3bb1294e667",
    "roots": {
       "bookmark_bar": {
          "children": [ {
@@ -24891,13 +24891,6 @@
             "id": "6",
             "name": "Bookmarks",
             "type": "folder"
-         }, {
-            "date_added": "13301792000988808",
-            "guid": "50476b5f-e21b-45d1-afb0-f1a9eaef480d",
-            "id": "5309",
-            "name": "40 songs that use Descending Stepwise chord progressions - YouTube",
-            "type": "url",
-            "url": "https://www.youtube.com/watch?v=dyDFcchDl2M"
          }, {
             "date_added": "13301613074985239",
             "guid": "5883677b-7e68-4259-934b-acbd02731bda",
