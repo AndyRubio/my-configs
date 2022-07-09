@@ -1,5 +1,5 @@
 {
-   "checksum": "2f425b7c4e7de2140388e3bb1294e667",
+   "checksum": "0aca0a6a24e7b403ef142707fe8ac05e",
    "roots": {
       "bookmark_bar": {
          "children": [ {
@@ -24884,933 +24884,41 @@
                "id": "3510",
                "name": "Booking.com",
                "type": "folder"
+            }, {
+               "date_added": "13301866697338966",
+               "guid": "164ceaad-2aaf-46db-b907-240e9fdc4aa9",
+               "id": "5313",
+               "name": "Grandeur et décadence d'un petit commerce de cinéma (1986).mkv | Uloz.to",
+               "type": "url",
+               "url": "https://ulozto.net/file/7BXZd9IUMIf5/grandeur-et-decadence-d-un-petit-commerce-de-cinema-1986-mkv#!ZGqyLmR2ZGL3BQZkMzL2L2LmLwAuLGIzFH1KrKE3Z2WcZzRlMD=="
             } ],
             "date_added": "13291147313727151",
-            "date_modified": "13301702379943682",
+            "date_modified": "13301866697338966",
             "guid": "b7f22f53-9cce-46ef-b0f7-ce8a94540bc0",
             "id": "6",
             "name": "Bookmarks",
             "type": "folder"
          }, {
-            "date_added": "13301613074985239",
-            "guid": "5883677b-7e68-4259-934b-acbd02731bda",
-            "id": "5303",
-            "name": "Chet Baker & Paul Bley - Diane (1985) - YouTube",
+            "date_added": "13301866700818344",
+            "guid": "705e8be3-9bc4-49cd-96c3-db463e15c317",
+            "id": "5314",
+            "name": "Grandeur et décadence d'un petit commerce de cinéma (1986).mkv | Uloz.to",
             "type": "url",
-            "url": "https://www.youtube.com/watch?v=skSx-ECpzmw"
+            "url": "https://ulozto.net/file/7BXZd9IUMIf5/grandeur-et-decadence-d-un-petit-commerce-de-cinema-1986-mkv#!ZGqyLmR2ZGL3BQZkMzL2L2LmLwAuLGIzFH1KrKE3Z2WcZzRlMD=="
          }, {
-            "date_added": "13301433502563758",
-            "guid": "ad944557-86c9-41a7-9d62-8d94b422a584",
-            "id": "5298",
-            "name": "M̤ ̤I̤ ̤L̤ ̤E̤ ̤S̤ ̤D̤ ̤A̤ ̤V̤ ̤I̤ ̤S̤ ̤-̤ ̤K̤i̤n̤d̤ ̤O̤f̤ ̤B̤l̤ṳe̤ [Legacy Edition][Full HQ] - YouTube",
+            "date_added": "13301876956445601",
+            "guid": "f5332019-15cc-4933-96fb-65d1cd4c4175",
+            "id": "5316",
+            "name": "[Trance] Essential Trance Volume 6 (July 2000) - Johan (DJ Irish) - YouTube",
             "type": "url",
-            "url": "https://www.youtube.com/watch?v=8uUCIQ50e-4"
+            "url": "https://www.youtube.com/watch?v=HapRbiaCFfU"
          }, {
-            "date_added": "13301389427313391",
-            "guid": "ed1b9a8f-f0d7-4a50-81fa-0bb3db0ac8c7",
-            "id": "5295",
-            "name": "Download | Mullvad VPN",
+            "date_added": "13301866618885649",
+            "guid": "d8fa6db8-6f61-4751-8441-927611982b65",
+            "id": "5312",
+            "name": "Improper Channels (1981) – rarefilmm | The Cave of Forgotten Films",
             "type": "url",
-            "url": "https://mullvad.net/en/download/macos/"
-         }, {
-            "date_added": "13301442834257297",
-            "guid": "0813f3d0-5ffc-41c9-bcda-f213f2ce7b72",
-            "id": "5301",
-            "name": "the orville s03 e07 - Easynews Global Search -",
-            "type": "url",
-            "url": "https://members.easynews.com/global5/search.html?gps=the+orville+s03+e07&sbj=&from=&ns=&fil=&fex=&vc=&ac=&fty%5B%5D=VIDEO&s1=dsize&s1d=-&s2=nrfile&s2d=-&s3=dsize&s3d=-&pby=100&pno=1&sS=0&nostem=1&svL=&d1=&d1t=&d2=&d2t=&b1=&b1t=22&b2=&b2t=&px1=&px1t=&px2=&px2t=&fps1=&fps1t=&fps2=&fps2t=&bps1=&bps1t=&bps2=&bps2t=&hz1=&hz1t=&hz2=&hz2t=&rn1=&rn1t=&rn2=&rn2t=&submit=Search&fly=2"
-         }, {
-            "date_added": "13300891726205416",
-            "guid": "cde35129-b59b-476c-916c-da581ae0273f",
-            "id": "5283",
-            "name": "irma vep s01 e06 - Easynews Global Search -",
-            "type": "url",
-            "url": "https://members.easynews.com/global5/search.html?gps=irma+vep+s01+e06&sbj=&from=&ns=&fil=&fex=&vc=&ac=&fty%5B%5D=VIDEO&s1=dtime&s1d=-&s2=nrfile&s2d=-&s3=dsize&s3d=-&pby=100&pno=1&sS=0&nostem=1&svL=&d1=&d1t=&d2=&d2t=&b1=&b1t=22&b2=&b2t=&px1=&px1t=&px2=&px2t=&fps1=&fps1t=&fps2=&fps2t=&bps1=&bps1t=&bps2=&bps2t=&hz1=&hz1t=&hz2=&hz2t=&rn1=&rn1t=&rn2=&rn2t=&submit=Search&fly=2"
-         }, {
-            "date_added": "13300321061066943",
-            "guid": "82298c38-011d-4f8a-8fff-e466cd3abb77",
-            "id": "5274",
-            "name": "oxide ghosts",
-            "type": "url",
-            "url": "http://www.michaelcumming.co.uk/oxide%20ghosts/"
-         }, {
-            "date_added": "13299494488252626",
-            "guid": "48d3e034-534b-462d-b5e6-11c9cf562775",
-            "id": "5257",
-            "name": "Free Event - Deep Learning & Memorisation (2022-06-11)",
-            "type": "url",
-            "url": "https://vimeo.com/719450341/fc52a86ab3"
-         }, {
-            "date_added": "13298588947135887",
-            "guid": "9de70035-12a5-4b5b-a13d-964dc4433705",
-            "id": "5235",
-            "name": "Mick's 'Nostalgia' Channel. - YouTube",
-            "type": "url",
-            "url": "https://www.youtube.com/channel/UCfKCo_LXUxwrrnVIFL2H_Pg/videos"
-         }, {
-            "children": [ {
-               "children": [ {
-                  "date_added": "13216568801000000",
-                  "guid": "a0caecc4-7592-4aed-9c03-32841c14eeeb",
-                  "id": "3518",
-                  "name": "Piano Lessons On The Web - YouTube",
-                  "type": "url",
-                  "url": "https://www.youtube.com/channel/UCAh-jIhQPq0XVuu3RN4zGaw"
-               }, {
-                  "date_added": "13277328006000000",
-                  "guid": "86ded204-d0b2-47b1-93fb-5fe3ef6e6d7f",
-                  "id": "3519",
-                  "name": "(6) MangoldProject - YouTube",
-                  "type": "url",
-                  "url": "https://www.youtube.com/c/MangoldProject/playlists"
-               }, {
-                  "date_added": "13216428854000000",
-                  "guid": "f4737bba-f5dc-423d-ad5b-fcbd78d104e7",
-                  "id": "3520",
-                  "name": "Creative Piano Academy - YouTube",
-                  "type": "url",
-                  "url": "https://www.youtube.com/channel/UC2VELs7Mfz81cZxC9A6-JOg"
-               }, {
-                  "date_added": "13218757949000000",
-                  "guid": "c7fb9d31-b374-4f3a-9c29-94d8e3a3d947",
-                  "id": "3521",
-                  "name": "Pianote - YouTube",
-                  "type": "url",
-                  "url": "https://www.youtube.com/user/PianoLessonscom/videos"
-               }, {
-                  "date_added": "13253666402000000",
-                  "guid": "9e871e17-7514-4679-8f36-c7152619eef2",
-                  "id": "3522",
-                  "name": "London Contemporary School of Piano - YouTube",
-                  "type": "url",
-                  "url": "https://www.youtube.com/c/LondonContemporarySchoolofPiano/videos"
-               }, {
-                  "date_added": "13254527972000000",
-                  "guid": "d04aa7e2-f9af-4f43-852e-4ef6d303802a",
-                  "id": "3523",
-                  "name": "Piano Lessons On The Web - YouTube",
-                  "type": "url",
-                  "url": "https://www.youtube.com/c/LessonsOnTheWeb/videos"
-               }, {
-                  "date_added": "13293993040660717",
-                  "guid": "8e28c0a1-5eee-463b-a7d9-a791b2a254d6",
-                  "id": "5122",
-                  "name": "pianoTV - YouTube",
-                  "type": "url",
-                  "url": "https://www.youtube.com/c/PianotvNet/videos"
-               }, {
-                  "date_added": "13274792442000000",
-                  "guid": "e2c3f139-cd0c-4562-a378-0cfcdcc01ace",
-                  "id": "3524",
-                  "name": "(1) Noah Kellman - YouTube",
-                  "type": "url",
-                  "url": "https://www.youtube.com/channel/UC97YN7gYqtdk6z9jYHOn_lQ"
-               }, {
-                  "date_added": "13251320826000000",
-                  "guid": "bb01a069-9f2a-4c4a-9c04-64e792aaae28",
-                  "id": "3525",
-                  "name": "Pianote - YouTube",
-                  "type": "url",
-                  "url": "https://www.youtube.com/channel/UC_DmCvOP5Q_eBMRDvqqRXjg"
-               }, {
-                  "date_added": "13276023300000000",
-                  "guid": "f91b4b1e-2f39-484e-9f27-c86ad55a7930",
-                  "id": "3526",
-                  "name": "(8) Alain Merville - YouTube",
-                  "type": "url",
-                  "url": "https://www.youtube.com/c/AlainMerville/videos"
-               }, {
-                  "date_added": "13255480565000000",
-                  "guid": "7947d8c7-52bd-4954-9419-156706493d47",
-                  "id": "3527",
-                  "name": "LivingPianosVideos - YouTube",
-                  "type": "url",
-                  "url": "https://www.youtube.com/user/LivingPianosVideos/videos"
-               }, {
-                  "date_added": "13252460049000000",
-                  "guid": "fc12c227-124e-4c34-b841-e4f169acc55f",
-                  "id": "3528",
-                  "name": "Nahre Sol - YouTube",
-                  "type": "url",
-                  "url": "https://www.youtube.com/channel/UC8R8FRt1KcPiR-rtAflXmeg"
-               }, {
-                  "date_added": "13253824235000000",
-                  "guid": "79caf3fb-c58e-4788-a642-84cf483d4702",
-                  "id": "3529",
-                  "name": "Ashish Xiangyi Kumar - YouTube",
-                  "type": "url",
-                  "url": "https://www.youtube.com/c/AshishXiangyiKumar/videos"
-               }, {
-                  "date_added": "13253908966000000",
-                  "guid": "59efc412-8a45-4de5-8d0a-03bc1d7e2bcb",
-                  "id": "3530",
-                  "name": "hanon piano exercises - YouTube",
-                  "type": "url",
-                  "url": "https://www.youtube.com/results?search_query=hanon+piano+exercises"
-               }, {
-                  "date_added": "13255553998000000",
-                  "guid": "737613d7-a79e-422b-b355-c15caca37ff1",
-                  "id": "3531",
-                  "name": "Hanon - Werner Richards / WRMStudio - YouTube",
-                  "type": "url",
-                  "url": "https://www.youtube.com/c/WrmusicstudioSA/videos"
-               }, {
-                  "date_added": "13258848102000000",
-                  "guid": "cb845646-ac8b-4f21-8f9b-0de801a6dedc",
-                  "id": "3532",
-                  "name": "Danae Dörken - YouTube",
-                  "type": "url",
-                  "url": "https://www.youtube.com/c/DanaeD%C3%B6rkenPiano/videos"
-               }, {
-                  "date_added": "13272640233000000",
-                  "guid": "de16e229-0c8e-4e0d-8e63-eb951a824e9b",
-                  "id": "3533",
-                  "name": "pianoTV - YouTube",
-                  "type": "url",
-                  "url": "https://www.youtube.com/c/PianotvNet/featured"
-               }, {
-                  "date_added": "13273273533000000",
-                  "guid": "3b6b9b7f-b3a1-4a41-ad2a-7480388e5399",
-                  "id": "3534",
-                  "name": "Learn Piano with Jazer Lee - YouTube",
-                  "type": "url",
-                  "url": "https://www.youtube.com/c/LearnPianowithJazerLee/playlists"
-               }, {
-                  "date_added": "13273329101000000",
-                  "guid": "2f007b4a-538a-406b-8c06-3b3102a8ccc1",
-                  "id": "3535",
-                  "name": "Liberty Park Music - YouTube",
-                  "type": "url",
-                  "url": "https://www.youtube.com/c/Libertyparkmusic_LPM/playlists"
-               }, {
-                  "date_added": "13273879219000000",
-                  "guid": "bf0486ef-3ad1-4cee-a1e4-46740dd8619c",
-                  "id": "3536",
-                  "name": "Liberty Park Music - YouTube",
-                  "type": "url",
-                  "url": "https://www.youtube.com/channel/UCKYJqwAi35MdD4U9orQ7doA"
-               }, {
-                  "date_added": "13274056991000000",
-                  "guid": "29ab8899-241a-4919-9fdc-96440b14f4c6",
-                  "id": "3537",
-                  "name": "Zero To Piano - YouTube",
-                  "type": "url",
-                  "url": "https://www.youtube.com/channel/UCzys5o1xQ1QBMCtraFKQHYg"
-               }, {
-                  "date_added": "13275076200000000",
-                  "guid": "45c69a52-a6a8-42bf-b86f-d4f9bd5766c3",
-                  "id": "3538",
-                  "name": "NewJazz - YouTube",
-                  "type": "url",
-                  "url": "https://www.youtube.com/c/NewJazz/about"
-               }, {
-                  "date_added": "13275254147000000",
-                  "guid": "2fb29eb8-6dc0-44dc-a572-733f048fdcd5",
-                  "id": "3539",
-                  "name": "The Art of Piano Technique - YouTube",
-                  "type": "url",
-                  "url": "https://www.youtube.com/channel/UC9Ti4ThCKJj4-oQMALH3KOw/playlists"
-               }, {
-                  "date_added": "13276556796000000",
-                  "guid": "69d3349c-5f17-441d-a815-d4654600fbcd",
-                  "id": "3540",
-                  "name": "PianoCareer - YouTube",
-                  "type": "url",
-                  "url": "https://www.youtube.com/channel/UCtT_GkgxBCbbLecptrRqSRg"
-               }, {
-                  "date_added": "13276564532000000",
-                  "guid": "eee8f7b2-7c44-458e-b852-0ce7f3c34b39",
-                  "id": "3541",
-                  "name": "CRZNDO Music - YouTube",
-                  "type": "url",
-                  "url": "https://www.youtube.com/channel/UCcz19WZ8NCcQtl6MubawSuQ"
-               }, {
-                  "date_added": "13276625130000000",
-                  "guid": "d3f66a78-95eb-4d40-b178-ec99cd71581f",
-                  "id": "3542",
-                  "name": "Music Theory - YouTube",
-                  "type": "url",
-                  "url": "https://www.youtube.com/playlist?list=PLjpPMe3LP1XKgqqzqz4j6M8-_M_soYxiV"
-               }, {
-                  "date_added": "13277337048000000",
-                  "guid": "408d0f23-0a54-4b95-b106-8745fba4102e",
-                  "id": "3543",
-                  "name": "Piano With Jonny - YouTube",
-                  "type": "url",
-                  "url": "https://www.youtube.com/c/PianoWithJonny/videos"
-               }, {
-                  "date_added": "13277853583000000",
-                  "guid": "3e513d53-9e4e-46e9-8d6b-b24c586beee1",
-                  "id": "3544",
-                  "name": "PianoTips - YouTube",
-                  "type": "url",
-                  "url": "https://www.youtube.com/channel/UCCd3LhOmx5hjoP5lw7oKmGw/playlists"
-               }, {
-                  "date_added": "13280060415000000",
-                  "guid": "776359b5-dbdf-4ae7-a443-3829d39476fb",
-                  "id": "3545",
-                  "name": "musictheoryguy - YouTube",
-                  "type": "url",
-                  "url": "https://www.youtube.com/user/musictheoryguy/videos"
-               }, {
-                  "date_added": "13293406247429922",
-                  "guid": "660b4b9c-46dc-4763-8d5c-34ab7347dcca",
-                  "id": "5104",
-                  "name": "(1) Sharon Bill - YouTube",
-                  "type": "url",
-                  "url": "https://www.youtube.com/c/SharonBill/videos"
-               }, {
-                  "date_added": "13295953539793353",
-                  "guid": "7530a1de-5d07-4d42-850f-b0f5c11d49ac",
-                  "id": "5167",
-                  "name": "webpianoacademy - YouTube",
-                  "type": "url",
-                  "url": "https://www.youtube.com/c/webpianoacademy/videos"
-               } ],
-               "date_added": "13291147313775451",
-               "date_modified": "13295953546050486",
-               "guid": "256a9d7a-429b-4472-af93-1e23b415dc5d",
-               "id": "3517",
-               "name": "Youtube Channels",
-               "type": "folder"
-            }, {
-               "date_added": "13301781105963591",
-               "guid": "a5c03663-3173-462f-87a7-6b0266af78e6",
-               "id": "5308",
-               "name": "AAS Lounge Lizard EP-4 electric piano plug-in VST AU AAX",
-               "type": "url",
-               "url": "https://www.applied-acoustics.com/lounge-lizard-ep-4/"
-            }, {
-               "date_added": "13280784254000000",
-               "guid": "eeeb3850-117a-4ff1-95fd-2ca947ebd3b4",
-               "id": "3546",
-               "name": "Piano From Scratch - YouTube",
-               "type": "url",
-               "url": "https://www.youtube.com/c/PianoFromScratch/playlists"
-            }, {
-               "date_added": "13296431895579875",
-               "guid": "6cef364f-c8d6-42c4-b2ee-8a65f40fb689",
-               "id": "5182",
-               "name": "Watch Me Get My Piano Scales Up to Speed - YouTube",
-               "type": "url",
-               "url": "https://www.youtube.com/watch?v=yxrA-jCZJ6M"
-            }, {
-               "date_added": "13293370959137558",
-               "guid": "a2152ca4-f455-4db1-a261-5250a690b2d1",
-               "id": "5097",
-               "name": "Widmung by Schumann-Liszt - YouTube",
-               "type": "url",
-               "url": "https://www.youtube.com/watch?v=p07ocmCXzj0"
-            }, {
-               "date_added": "13292799033402906",
-               "guid": "982662a8-d623-49a7-9845-5c2c10bd46e4",
-               "id": "5084",
-               "name": "Yamaha Soft Case For P125 Digital Piano at Gear4music",
-               "type": "url",
-               "url": "https://www.gear4music.com/Keyboards-and-Pianos/Yamaha-Soft-Case-For-P125-Digital-Piano/2SGW"
-            }, {
-               "date_added": "13282331838000000",
-               "guid": "cdd9069b-2e28-4dcf-9f3d-50d8bd6e09c6",
-               "id": "3547",
-               "name": "Schubert: Fantasie in F minor - Lucas & Arthur Jussen - YouTube",
-               "type": "url",
-               "url": "https://www.youtube.com/watch?v=UyjzqPPXDcw"
-            }, {
-               "date_added": "13280627212000000",
-               "guid": "9c1119d5-5116-41ac-953c-931e6f6f5662",
-               "id": "3548",
-               "name": "Franz Schubert: Fantasia Op.103 | Presto Music",
-               "type": "url",
-               "url": "https://www.prestomusic.com/sheet-music/products/7759204--franz-schubert-fantasia-op-103#about"
-            }, {
-               "date_added": "13277742654000000",
-               "guid": "8e6cb0f8-b593-430f-918c-950016698aea",
-               "id": "3549",
-               "name": "Home | Le Cheile Music",
-               "type": "url",
-               "url": "https://www.lecheilemusic.com/"
-            }, {
-               "date_added": "13291563037092286",
-               "guid": "2c5ac265-c0ad-462d-bab8-f1aebcd069db",
-               "id": "5061",
-               "name": "4 Wrist Movements EVERY PIANIST SHOULD KNOW! Piano Playing Fundamentals: Detailed Demo with Examples - YouTube",
-               "type": "url",
-               "url": "https://www.youtube.com/watch?v=rBFsnGYQysM"
-            }, {
-               "date_added": "13278284610000000",
-               "guid": "25d581c5-6c96-43ce-88c4-e3203967c2b2",
-               "id": "3550",
-               "name": "(3) Why I like Rhythm Sight Reading Trainer and How To Use It - YouTube",
-               "type": "url",
-               "url": "https://www.youtube.com/watch?v=bIgMn09Cxmc"
-            }, {
-               "date_added": "13294856218540701",
-               "guid": "d8defb08-04ff-4212-89f8-ded13f14581f",
-               "id": "5139",
-               "name": "Mozart Sonata No.16 in C Major K. 545 \"Sonata Facile\" [Complete] | PIA",
-               "type": "url",
-               "url": "https://pianoskillsandmagic.teachable.com/p/mozart-sonata-no-16-in-c-major-k-545-sonata-facile-complete"
-            }, {
-               "date_added": "13277327759000000",
-               "guid": "ae78889d-34ab-4991-be3f-266e7bd3a867",
-               "id": "3551",
-               "name": "(6) The Leeds International Piano Competition 2021 - YouTube",
-               "type": "url",
-               "url": "https://www.youtube.com/playlist?list=PLDgJJZYFP7IpoXBsLPcOnlxu6fjo9KGK_"
-            }, {
-               "date_added": "13276023113000000",
-               "guid": "37cb2e24-d9ca-4bc8-9aa1-a97f640a8117",
-               "id": "3552",
-               "name": "ChordieApp – Musical Tools For Everyone",
-               "type": "url",
-               "url": "https://www.chordieapp.com/"
-            }, {
-               "date_added": "13276125586000000",
-               "guid": "c83899e3-4724-4db7-989a-1d84a979f323",
-               "id": "3553",
-               "name": "#LEEDSPIANO - First Round with Elizaveta Kliuchereva",
-               "type": "url",
-               "url": "https://leedspiano.medici.tv/en/replay/first-round-with-elizaveta-kliuchereva/"
-            }, {
-               "date_added": "13276904503000000",
-               "guid": "86d9f471-01f0-42d0-aa99-1c0933a2f9b4",
-               "id": "3554",
-               "name": "Welcome to ToneGym",
-               "type": "url",
-               "url": "https://www.tonegym.co/welcome/index"
-            }, {
-               "date_added": "13272912721000000",
-               "guid": "51cee7a9-dd29-4ed5-9840-e849f2a6505b",
-               "id": "3555",
-               "name": "musictheory.net - Exercises",
-               "type": "url",
-               "url": "https://www.musictheory.net/exercises"
-            }, {
-               "date_added": "13293481964900363",
-               "guid": "8e7c7a5b-8535-4730-87b6-d7905e2b728f",
-               "id": "5108",
-               "name": "Best VST Piano Plugin in 2022 - How I Get My Sound - YouTube",
-               "type": "url",
-               "url": "https://www.youtube.com/watch?v=_Ou99DaeXIA"
-            }, {
-               "date_added": "13274631947000000",
-               "guid": "1d506ad8-253f-4fd8-84c5-bf7758e82d08",
-               "id": "3556",
-               "name": "Rhythmic Dictation",
-               "type": "url",
-               "url": "https://www.teoria.com/en/exercises/rd4.php"
-            }, {
-               "date_added": "13280627208000000",
-               "guid": "b14baca4-2764-46e7-8f87-2f17eadd0cb3",
-               "id": "3557",
-               "name": "Franz Schubert: Fantasia Op.103 | Presto Music",
-               "type": "url",
-               "url": "https://www.prestomusic.com/sheet-music/products/7759204--franz-schubert-fantasia-op-103#about"
-            }, {
-               "date_added": "13274631359000000",
-               "guid": "ecc1475a-cc90-442b-9a1c-a08af761f67d",
-               "id": "3558",
-               "name": "The Rhythm Randomizer",
-               "type": "url",
-               "url": "https://www.rhythmrandomizer.com/"
-            }, {
-               "date_added": "13274632058000000",
-               "guid": "c30988cb-61d1-4a1d-9476-ed985ed3bc01",
-               "id": "3559",
-               "name": "teoria - Tutorials",
-               "type": "url",
-               "url": "https://www.teoria.com/en/tutorials/"
-            }, {
-               "date_added": "13282435422000000",
-               "guid": "37a80744-4810-496b-8020-034dcbdc70e8",
-               "id": "3560",
-               "name": "Sir András Schiff | Schubert Lecture-recital - Live at Wigmore Hall - YouTube",
-               "type": "url",
-               "url": "https://www.youtube.com/watch?v=ViZu8ATTqc8"
-            }, {
-               "date_added": "13273793555000000",
-               "guid": "44bf559e-e705-4729-894e-082c68aaed8f",
-               "id": "3561",
-               "name": "Yuja Wang plays Mélodie de Gluck/Orfeo ed Euridice - YouTube",
-               "type": "url",
-               "url": "https://www.youtube.com/watch?v=QA9GCwstBMM"
-            }, {
-               "date_added": "13275936135000000",
-               "guid": "39ff6dcf-d049-46df-81f6-e327b96c1edf",
-               "id": "3562",
-               "name": "Gluck - Dance of the Blessed Spirtis (from Orpheus and Eurydice) - YouTube",
-               "type": "url",
-               "url": "https://www.youtube.com/watch?v=AbrAMjVVodA"
-            }, {
-               "date_added": "13275436351000000",
-               "guid": "f9d85cfa-fcfc-4212-b39c-461648b76843",
-               "id": "3563",
-               "name": "Sergey Rachmaninov plays Gluck \"Melody\" - YouTube",
-               "type": "url",
-               "url": "https://www.youtube.com/watch?v=_XQ6tjxuJ6g"
-            }, {
-               "date_added": "13275328669000000",
-               "guid": "ef3f6e84-2295-4383-926c-3b530ac7f00e",
-               "id": "3564",
-               "name": "Stretta Music | Online Sheet Music Shop | Sheet Music, Scores, PDFs & Publications",
-               "type": "url",
-               "url": "https://www.stretta-music.com/en/"
-            }, {
-               "date_added": "13222132127000000",
-               "guid": "50997b83-3117-437a-93a7-45c3aa2498b7",
-               "id": "3565",
-               "name": "RAY MANZAREK-RIDERS ON THE STORM - YouTube",
-               "type": "url",
-               "url": "https://www.youtube.com/watch?v=3deQXzV-qTk"
-            }, {
-               "date_added": "13275244342000000",
-               "guid": "10478110-6baf-43c6-8444-65ab3b4c94d7",
-               "id": "3566",
-               "name": "The Ultimate Piano Chords Course - for Piano & Keyboard",
-               "type": "url",
-               "url": "https://booking.udemy.com/course/the-ultimate-piano-chord-course-for-piano-keyboard/learn/lecture/10461002#overview"
-            }, {
-               "date_added": "13219624771000000",
-               "guid": "ec3a3c02-d029-4fa0-be3d-8b31cfb982cf",
-               "id": "3567",
-               "name": "Sight Reading Factory®",
-               "type": "url",
-               "url": "https://www.sightreadingfactory.com/"
-            }, {
-               "date_added": "13219270102000000",
-               "guid": "57a80536-06ab-4ed0-98a3-3817b523a04b",
-               "id": "3568",
-               "name": "Piano Sonata in B-flat major, D.960 (Schubert, Franz) - IMSLP: Free Sheet Music PDF Download",
-               "type": "url",
-               "url": "https://imslp.org/wiki/Piano_Sonata_in_B-flat_major%2C_D.960_(Schubert%2C_Franz)"
-            }, {
-               "date_added": "13281661577000000",
-               "guid": "3d929230-7ca5-4084-96ae-0d33be0bb6f5",
-               "id": "3569",
-               "name": "Beethoven Piano Sonata No. 17 in D minor, Op. 31, No. 2 3rd movement - YouTube",
-               "type": "url",
-               "url": "https://www.youtube.com/watch?v=F39H9rtWCoY"
-            }, {
-               "date_added": "13283180002000000",
-               "guid": "9f0b6fa7-e8c2-4611-b0e0-995d69168302",
-               "id": "3570",
-               "name": "Schubert, Trio No. 2, Op. 100, Andante con moto | Ambroise Aubrun, Maëlle Vilbert, Julien Hanck - YouTube",
-               "type": "url",
-               "url": "https://www.youtube.com/watch?v=nioKJNp8ADE"
-            }, {
-               "date_added": "13273793901000000",
-               "guid": "70737058-0999-4aba-a868-3f2d7bee4c9d",
-               "id": "3571",
-               "name": "Mozart Piano Sonata No 16 C major K 545 Barenboim - YouTube",
-               "type": "url",
-               "url": "https://www.youtube.com/watch?v=1vDxlnJVvW8"
-            }, {
-               "date_added": "13273706460000000",
-               "guid": "94954823-d4ef-486d-81bf-0cdab43337a2",
-               "id": "3572",
-               "name": "Classical Piano Music | Piano Street",
-               "type": "url",
-               "url": "https://www.pianostreet.com/"
-            }, {
-               "date_added": "13274831807000000",
-               "guid": "058210be-465e-448d-a3c9-842ef78372a8",
-               "id": "3573",
-               "name": "CFX Concert Grand virtual piano - Garritan",
-               "type": "url",
-               "url": "https://www.garritan.com/products/cfx-concert-grand-virtual-piano/"
-            }, {
-               "date_added": "13215972190000000",
-               "guid": "48bd9d65-d138-44e0-858e-ef68ef3cf644",
-               "id": "3574",
-               "name": "Music Theory for Musicians and Normal People",
-               "type": "url",
-               "url": "https://tobyrush.com/theorypages/index.html"
-            }, {
-               "date_added": "13215972176000000",
-               "guid": "80e68449-8509-4c7c-a254-23f9a1292c33",
-               "id": "3575",
-               "name": "PS99-the-whole-enchilada-set",
-               "type": "url",
-               "url": "https://tobyrush.com/theorypages/pdf/en-us/the-whole-enchilada-set.pdf"
-            }, {
-               "date_added": "13291248744827527",
-               "guid": "9df970bd-5fc5-4104-8490-e0684d1d088d",
-               "id": "5058",
-               "name": "Yulianna Avdeeva – Concerto in E minor, Op. 11 (final stage, 2010) - YouTube",
-               "type": "url",
-               "url": "https://www.youtube.com/watch?v=CHJ_dl-ouTo"
-            }, {
-               "date_added": "13275954392000000",
-               "guid": "1618cf1b-6cc3-478a-aeb3-4426bc96c85d",
-               "id": "3576",
-               "name": "🇫🇷 🇬🇪 Khatia Buniatishvili - La Marseillaise. After Final 2018/ ხატია ბუნიათიშვილი-საფრანგეთის ჰიმნი - YouTube",
-               "type": "url",
-               "url": "https://www.youtube.com/watch?v=nifspyswb-8"
-            }, {
-               "date_added": "13218414069000000",
-               "guid": "5611e97c-3f70-4e5c-9dae-01cb15cf7fc8",
-               "id": "3577",
-               "name": "Become better at Sight Reading with Practice Sight Reading.com",
-               "type": "url",
-               "url": "https://practicesightreading.com/"
-            }, {
-               "date_added": "13251150999000000",
-               "guid": "9cccde3f-cb62-4b22-8c60-5e2c0c817fcb",
-               "id": "3578",
-               "name": "Piano Sight-Reading Development with 25 Exercises | Udemy",
-               "type": "url",
-               "url": "https://www.udemy.com/course/piano-sight-reading/"
-            }, {
-               "date_added": "13274802018000000",
-               "guid": "77ef9701-34f1-4a00-93bb-3e6fd8a4f8fe",
-               "id": "3579",
-               "name": "Pianophilia - Index page",
-               "type": "url",
-               "url": "http://www.pianophilia.com/phpBB3/index.php"
-            }, {
-               "date_added": "13251151696000000",
-               "guid": "08ed7d17-003a-462f-82c1-16e89f696d16",
-               "id": "3580",
-               "name": "Sight reading app recommendations : piano",
-               "type": "url",
-               "url": "https://www.reddit.com/r/piano/comments/9ukmsz/sight_reading_app_recommendations/"
-            }, {
-               "date_added": "13251151782000000",
-               "guid": "132c011b-81c7-4e2d-8483-b0125f30e68a",
-               "id": "3581",
-               "name": "Sight Reading Trainer",
-               "type": "url",
-               "url": "https://sightreading.training/"
-            }, {
-               "date_added": "13249236845000000",
-               "guid": "13ef05bd-b234-40bb-b7d3-e1eeda1a5112",
-               "id": "3582",
-               "name": "Piano score; Orfeo by Gluck (Sgambati) - YouTube",
-               "type": "url",
-               "url": "https://www.youtube.com/watch?v=5kMSvJ3U1iI"
-            }, {
-               "date_added": "13249684282000000",
-               "guid": "14da8f99-b3af-4bdf-9bdc-447f8e9d9592",
-               "id": "3583",
-               "name": "Gluck/Sgambati Paul Barton",
-               "type": "url",
-               "url": "https://www.youtube.com/watch?v=oRPMx3D4bJI"
-            }, {
-               "date_added": "13250630293000000",
-               "guid": "779ec722-da8f-4753-875e-1e5719f8c5b0",
-               "id": "3584",
-               "name": "Read Music FAST!",
-               "type": "url",
-               "url": "https://booking.udemy.com/course/sight-reading/learn/lecture/2047698#overview"
-            }, {
-               "date_added": "13251355850000000",
-               "guid": "f7987ff8-a878-4551-aaa1-48b90603db8b",
-               "id": "3585",
-               "name": "Improvisation(即興曲) - YouTube - Oskar Merikanto, Op.76 No.3",
-               "type": "url",
-               "url": "https://www.youtube.com/watch?v=zFmXrlO3A-A"
-            }, {
-               "date_added": "13251356258000000",
-               "guid": "a3f0098e-ae0f-46d4-966f-dbf54559f2cf",
-               "id": "3586",
-               "name": "Popular Piano Pieces from Merikanto Oskar | buy now in Stretta sheet music shop",
-               "type": "url",
-               "url": "https://www.stretta-music.com/en/merikantooskar-popular-piano-pieces-nr-372541.html"
-            }, {
-               "date_added": "13274544951000000",
-               "guid": "cde7e813-6ded-48c3-a17e-4a75b26371c7",
-               "id": "3587",
-               "name": "This food diagram will teach you the basics of rhythm - Classic FM",
-               "type": "url",
-               "url": "https://www.classicfm.com/discover-music/music-theory/food-rhythm-cheat-sheet/"
-            }, {
-               "children": [ {
-                  "date_added": "13251414388000000",
-                  "guid": "53d6e474-5127-4b3a-9dbb-8ba37f9cf710",
-                  "id": "3589",
-                  "name": "Popular Piano Pieces by Oskar Merikanto » all-sheetmusic.com",
-                  "type": "url",
-                  "url": "https://www.all-sheetmusic.com/Piano-Organ-Accordion/Piano/Popular-Piano-Pieces.html"
-               } ],
-               "date_added": "13291147313776383",
-               "date_modified": "0",
-               "guid": "b1c683da-10e2-4608-bc36-2ce56b508fa9",
-               "id": "3588",
-               "name": "Oskar Merikanto",
-               "type": "folder"
-            }, {
-               "date_added": "13136420078000000",
-               "guid": "101e9000-ed46-4637-b517-f175854b682a",
-               "id": "3590",
-               "name": "How To Figure Out Chords To Songs - YouTube",
-               "type": "url",
-               "url": "https://www.youtube.com/watch?v=imj7FniRzyY"
-            }, {
-               "date_added": "13252351470000000",
-               "guid": "c95546f8-f5de-4f0e-81f2-b415c23e8151",
-               "id": "3591",
-               "name": "ABRSM Initial Piano (2021 & 2022): All 9 Pieces - YouTube",
-               "type": "url",
-               "url": "https://www.youtube.com/watch?v=k7aLx-iispw"
-            }, {
-               "date_added": "13252714075000000",
-               "guid": "4d9d5b2d-1a2e-4c70-8b05-ee9d69acd123",
-               "id": "3592",
-               "name": "Trinity College London Grade 1 Piano Exam - YouTube",
-               "type": "url",
-               "url": "https://www.youtube.com/watch?v=ryB9i34vLIE"
-            }, {
-               "date_added": "13252859113000000",
-               "guid": "5846e1ee-c964-45cc-821f-f32ae809c758",
-               "id": "3593",
-               "name": "Piano Masterclass on Ravel - Jeux d'eau : Jean Yves Thibaudet teaches Nicolas van Poucke - YouTube",
-               "type": "url",
-               "url": "https://www.youtube.com/watch?v=SJo0CMpmFes&list=LL&index=3&t=1500s"
-            }, {
-               "date_added": "13252859119000000",
-               "guid": "c8a76098-e9cc-4512-bea1-557145ad453f",
-               "id": "3594",
-               "name": "Practicing Ravel Jeux d'eau - YouTube",
-               "type": "url",
-               "url": "https://www.youtube.com/watch?v=TKo36gkXFeQ&list=LL&index=5&t=496s"
-            }, {
-               "date_added": "13254185373000000",
-               "guid": "13b4e471-284f-491e-b67a-0ae5f04938ed",
-               "id": "3595",
-               "name": "StaffPad & Other Pen Entry Notation Devices | VI-CONTROL",
-               "type": "url",
-               "url": "https://vi-control.net/community/forums/staffpad-other-pen-entry-notation-devices.184/"
-            }, {
-               "date_added": "13254352972000000",
-               "guid": "750c7ff8-24de-4c91-9781-51e8305de47d",
-               "id": "3596",
-               "name": "List of musical symbols - Wikipedia",
-               "type": "url",
-               "url": "https://en.wikipedia.org/wiki/List_of_musical_symbols"
-            }, {
-               "date_added": "13254672236000000",
-               "guid": "f93dfad1-c9fd-4fe9-988b-5355ac40c076",
-               "id": "3597",
-               "name": "MANCHESTER PIANO LESSONS | Ugnius Pianist",
-               "type": "url",
-               "url": "https://www.ugniuspauliukonis.com/piano-lessons-in-manchester"
-            }, {
-               "date_added": "13254782186000000",
-               "guid": "cc8404e1-83a6-473e-acd1-49c2e8b1e7b8",
-               "id": "3598",
-               "name": "7 Tips for Developing Hand Independence on Piano",
-               "type": "url",
-               "url": "https://www.thrivepiano.com/developing-hand-independence-on-piano/"
-            }, {
-               "date_added": "13255474920000000",
-               "guid": "a1d22dbe-5e0b-4253-9935-f8a64d802803",
-               "id": "3599",
-               "name": "Hanon exercises - 240 Piano finger exercises in all keys",
-               "type": "url",
-               "url": "https://www.hanon-online.com/"
-            }, {
-               "date_added": "13256266871000000",
-               "guid": "a272b086-f65d-447f-a44b-5e86032d2001",
-               "id": "3600",
-               "name": "Piano mag",
-               "type": "url",
-               "url": "https://pocketmags.com/onlinereader/html5_reader/false/210070"
-            }, {
-               "date_added": "13257112281000000",
-               "guid": "9776e7b0-b16e-40d8-89f7-79d5cf9132f7",
-               "id": "3601",
-               "name": "Pianist - Helping you become a better player",
-               "type": "url",
-               "url": "https://www.pianistmagazine.com/"
-            }, {
-               "date_added": "13258847146000000",
-               "guid": "ee7e55f1-9027-4e78-9364-04b2be0a2e48",
-               "id": "3602",
-               "name": "Valentina Lisitsa Liszt La Campanella from Paganini Etude No.3 - YouTube",
-               "type": "url",
-               "url": "https://www.youtube.com/watch?v=ZY_eIIFqNxg"
-            }, {
-               "date_added": "13259017432000000",
-               "guid": "1da048d2-cbc4-460b-b402-808361f2512f",
-               "id": "3603",
-               "name": "Piano, Harpsichord, Harp",
-               "type": "url",
-               "url": "https://schottmusiclondon.com/shop/sheet-music-books/piano-harpsichord-harp.html"
-            }, {
-               "date_added": "13260608278000000",
-               "guid": "4c193ade-1314-4472-9ffe-d5a3566058c9",
-               "id": "3604",
-               "name": "Piano Chords - Piano World",
-               "type": "url",
-               "url": "https://pianoworld.com/fun-stuff/piano-chords/"
-            }, {
-               "date_added": "13261409443000000",
-               "guid": "cd9e1488-1d85-4817-a10d-605fd72d8091",
-               "id": "3605",
-               "name": "Pianojacq",
-               "type": "url",
-               "url": "https://pianojacq.com/"
-            }, {
-               "date_added": "13263507294000000",
-               "guid": "5fddfe79-416c-43e7-a634-1458f659e859",
-               "id": "3606",
-               "name": "CHOPIN PRELUDE Op. 28 No. 3 Piano Tutorial // MAKE YOUR LEFT HAND SOUND LIGHT, EVEN AND EFFORTLESS - YouTube",
-               "type": "url",
-               "url": "https://www.youtube.com/watch?v=EoG-yE8B0hM"
-            }, {
-               "date_added": "13265032041000000",
-               "guid": "4e869430-08ba-4d83-8f29-0f97da4c1d95",
-               "id": "3607",
-               "name": "Practising the Piano How to Use Hanon With Purpose - Practising the Piano",
-               "type": "url",
-               "url": "https://practisingthepiano.com/how-to-use-hanon/"
-            }, {
-               "date_added": "13265032098000000",
-               "guid": "5fc8a22b-129c-4ceb-9391-7996938c6723",
-               "id": "3608",
-               "name": "How I Practice Piano – Frog Urn Citadel",
-               "type": "url",
-               "url": "https://frogurncitadel.wordpress.com/2021/03/27/how-i-practice-piano/"
-            }, {
-               "date_added": "13265032192000000",
-               "guid": "826ddfc9-0438-406e-96d3-021017d66c4a",
-               "id": "3609",
-               "name": "How I Practice Piano | Hacker News",
-               "type": "url",
-               "url": "https://news.ycombinator.com/item?id=27085922"
-            }, {
-               "date_added": "13273517578000000",
-               "guid": "1d822f56-f3e3-43ac-8992-d9940942c3bb",
-               "id": "3610",
-               "name": "Stretta Music | Online Sheet Music Shop | Sheet Music, Scores, PDFs & Publications",
-               "type": "url",
-               "url": "https://www.stretta-music.de/en/"
-            }, {
-               "date_added": "13273606564000000",
-               "guid": "ad93261a-ed6f-4f48-a039-055383f4d5ab",
-               "id": "3611",
-               "name": "Spectrasonics - Keyscape - Collector Keyboards",
-               "type": "url",
-               "url": "https://www.spectrasonics.net/products/keyscape/"
-            }, {
-               "date_added": "13274229159000000",
-               "guid": "5e6a237f-26a7-4e5a-b6ed-193756802f24",
-               "id": "3612",
-               "name": "Piano live, Gluck-Sgambati Melody from Orpheus et Eurydice, Hubert Harry - Piano - YouTube",
-               "type": "url",
-               "url": "https://www.youtube.com/watch?v=JW6M4SCjv08"
-            }, {
-               "date_added": "13274564209000000",
-               "guid": "07798f0b-df00-48ba-8548-da3041ce73f0",
-               "id": "3613",
-               "name": "Guiomar Novaes plays Gluck - Sgambati Melodie from \"Orfeo e Euridice\" - YouTube",
-               "type": "url",
-               "url": "https://www.youtube.com/watch?v=io-7CqUkuPI"
-            }, {
-               "date_added": "13275004803000000",
-               "guid": "abae9c8a-2912-4a0c-92e2-c4b30eaaa399",
-               "id": "3614",
-               "name": "8 Sick Diminished Licks for Jazz Piano - YouTube",
-               "type": "url",
-               "url": "https://www.youtube.com/watch?v=2F6ftXEAawY&list=LL&index=9&t=199s"
-            }, {
-               "date_added": "13275676975000000",
-               "guid": "7b1fb4dc-3949-46f7-9c4f-ddf6b6fed6c6",
-               "id": "3615",
-               "name": "KAWAI CA 99 Digital Piano",
-               "type": "url",
-               "url": "https://www.kawai.co.uk/products/digitalpianos/caseries/ca99/"
-            }, {
-               "date_added": "13278199586000000",
-               "guid": "847e35f5-50db-468b-b49e-c5ad3dfe506b",
-               "id": "3616",
-               "name": "Víkingur Ólafsson – Galuppi: Piano Sonata No. 9 in F Minor: I. Andante spiritoso - YouTube",
-               "type": "url",
-               "url": "https://www.youtube.com/watch?v=8vX1oKQ7D5E"
-            }, {
-               "date_added": "13279582154000000",
-               "guid": "8ee4ef55-3367-401f-aa4d-b8ad69aa7c96",
-               "id": "3617",
-               "name": "ALEKSANDRA HORTENSJA DĄBEK – first round (18th Chopin Competition, Warsaw) - YouTube",
-               "type": "url",
-               "url": "https://www.youtube.com/watch?v=4zQS2TUzRWw"
-            }, {
-               "date_added": "13282499298000000",
-               "guid": "5750457f-8d5b-4745-8087-8e95ba29516e",
-               "id": "4233",
-               "name": "Sir András Schiff | Schubert Lecture-recital - Live at Wigmore Hall - YouTube",
-               "type": "url",
-               "url": "https://www.youtube.com/watch?v=ViZu8ATTqc8"
-            }, {
-               "date_added": "13294619763384055",
-               "guid": "ed466a0a-c246-4ff8-b923-7444f963813e",
-               "id": "5134",
-               "name": "Modartt: Pianoteq",
-               "type": "url",
-               "url": "https://www.modartt.com/pianoteq"
-            }, {
-               "date_added": "13294857213450700",
-               "guid": "501826f0-7dcb-462c-a77a-92a9831786a6",
-               "id": "5140",
-               "name": "IMPROVE HAND INDEPENDENCE ON THE PIANO // Get Better At Playing With 2 Hands - Piano Tutorial - YouTube",
-               "type": "url",
-               "url": "https://www.youtube.com/watch?v=1ufzfQyY7ss"
-            }, {
-               "date_added": "13297210869700232",
-               "guid": "b97dd5b3-afb2-4e36-846e-5b8a3a190fd2",
-               "id": "5197",
-               "name": "Arvo Pärt - \"Fratres\" for violin and piano (audio + sheet music) - YouTube",
-               "type": "url",
-               "url": "https://www.youtube.com/watch?v=RNVoZVFpW58"
-            }, {
-               "date_added": "13297465980156317",
-               "guid": "fe5da88d-7979-4fd7-ae08-d2d0d24d7bd5",
-               "id": "5206",
-               "name": "5 Right Hand Patterns That Turn Beginners Into Pros - YouTube",
-               "type": "url",
-               "url": "https://www.youtube.com/watch?v=w3UZHMlWF7U"
-            }, {
-               "date_added": "13300299156947960",
-               "guid": "f4b62a44-c243-488c-989c-70d3337e18ca",
-               "id": "5273",
-               "name": "EarMaster Subscription Signup",
-               "type": "url",
-               "url": "https://cloud.earmaster.com/ssignup/?via=emmanuelle"
-            }, {
-               "date_added": "13301781081972317",
-               "guid": "46185a77-2159-48e2-9c4f-77d798db6314",
-               "id": "5307",
-               "name": "AAS Lounge Lizard EP-4 electric piano plug-in VST AU AAX",
-               "type": "url",
-               "url": "https://www.applied-acoustics.com/lounge-lizard-ep-4/"
-            } ],
-            "date_added": "13291147313775327",
-            "date_modified": "13301832060855915",
-            "guid": "0f409cab-b70f-4693-baa7-c47f6036d969",
-            "id": "3516",
-            "name": "Piano",
-            "type": "folder"
-         }, {
-            "date_added": "13300926982779091",
-            "guid": "6fb60fb3-53ab-4ad2-aec5-c20461df3157",
-            "id": "5286",
-            "name": "777 - Doudou MD | HÖR - Jun 28 / 2022 - YouTube",
-            "type": "url",
-            "url": "https://www.youtube.com/watch?v=TFCElO2SSEw"
-         }, {
-            "date_added": "13298656670707924",
-            "guid": "879a55c9-5794-4970-a3c9-4cb222775b6f",
-            "id": "5236",
-            "name": "Quest - Maruwa B2B Younger Than Me | HÖR - Jun 2 / 2022 - YouTube",
-            "type": "url",
-            "url": "https://www.youtube.com/watch?v=Bd7iLbUOK9U"
-         }, {
-            "date_added": "13298161190342956",
-            "guid": "34c55627-382f-4414-954f-e206fca2937b",
-            "id": "5222",
-            "name": "Repeat Performance: Amazon.co.uk: Louis Hayward, Joan Leslie, Virginia Field, Tom Conway, Richard Basehart, Abe Dinovitch, Jean Dutriz, Tim Murdock, Lory Leeman, Mildred Sellers, Mike Lally, Dick Gordon, Alfred Werker, John Ireland, Alfred L. Werker, Aubrey Schenk, Natalie Schafer, Benay Venuta, Ilka Gruning, Bud Townsend, Gale Ronn, Ann Roberts, Valerie Traxler, Patrick Hurst, Raymond Largay, Jean del Val, Mack Williams, Alf Haugan, Michael Markham, Leland Hodgson, Phillip Morris: DVD & Blu-ray",
-            "type": "url",
-            "url": "https://www.amazon.co.uk/dp/B09M7PFXBL/ref=cbw_us_gb_dp_ags?smid=A2KVF7QXNCLV8H"
+            "url": "https://rarefilmm.com/2022/07/improper-channels-1981/"
          }, {
             "children": [ {
                "children": [ {
@@ -29199,13 +28307,926 @@
                "name": "777 - Doudou MD | HÖR - Jun 28 / 2022 - YouTube",
                "type": "url",
                "url": "https://www.youtube.com/watch?v=TFCElO2SSEw"
+            }, {
+               "date_added": "13301876709290359",
+               "guid": "7b38f4fc-a37b-4a9e-b083-daf79ef034a8",
+               "id": "5315",
+               "name": "[Trance] Essential Trance Volume 6 (July 2000) - Johan (DJ Irish) - YouTube",
+               "type": "url",
+               "url": "https://www.youtube.com/watch?v=HapRbiaCFfU"
             } ],
             "date_added": "13291147313778612",
-            "date_modified": "13300926944791627",
+            "date_modified": "13301876712998067",
             "guid": "352534b3-68a8-4ea5-8395-57d50099ad46",
             "id": "3698",
             "name": "Mixes",
             "type": "folder"
+         }, {
+            "date_added": "13301613074985239",
+            "guid": "5883677b-7e68-4259-934b-acbd02731bda",
+            "id": "5303",
+            "name": "Chet Baker & Paul Bley - Diane (1985) - YouTube",
+            "type": "url",
+            "url": "https://www.youtube.com/watch?v=skSx-ECpzmw"
+         }, {
+            "date_added": "13301433502563758",
+            "guid": "ad944557-86c9-41a7-9d62-8d94b422a584",
+            "id": "5298",
+            "name": "M̤ ̤I̤ ̤L̤ ̤E̤ ̤S̤ ̤D̤ ̤A̤ ̤V̤ ̤I̤ ̤S̤ ̤-̤ ̤K̤i̤n̤d̤ ̤O̤f̤ ̤B̤l̤ṳe̤ [Legacy Edition][Full HQ] - YouTube",
+            "type": "url",
+            "url": "https://www.youtube.com/watch?v=8uUCIQ50e-4"
+         }, {
+            "date_added": "13301442834257297",
+            "guid": "0813f3d0-5ffc-41c9-bcda-f213f2ce7b72",
+            "id": "5301",
+            "name": "the orville s03 e07 - Easynews Global Search -",
+            "type": "url",
+            "url": "https://members.easynews.com/global5/search.html?gps=the+orville+s03+e07&sbj=&from=&ns=&fil=&fex=&vc=&ac=&fty%5B%5D=VIDEO&s1=dsize&s1d=-&s2=nrfile&s2d=-&s3=dsize&s3d=-&pby=100&pno=1&sS=0&nostem=1&svL=&d1=&d1t=&d2=&d2t=&b1=&b1t=22&b2=&b2t=&px1=&px1t=&px2=&px2t=&fps1=&fps1t=&fps2=&fps2t=&bps1=&bps1t=&bps2=&bps2t=&hz1=&hz1t=&hz2=&hz2t=&rn1=&rn1t=&rn2=&rn2t=&submit=Search&fly=2"
+         }, {
+            "date_added": "13300891726205416",
+            "guid": "cde35129-b59b-476c-916c-da581ae0273f",
+            "id": "5283",
+            "name": "irma vep s01 e06 - Easynews Global Search -",
+            "type": "url",
+            "url": "https://members.easynews.com/global5/search.html?gps=irma+vep+s01+e06&sbj=&from=&ns=&fil=&fex=&vc=&ac=&fty%5B%5D=VIDEO&s1=dtime&s1d=-&s2=nrfile&s2d=-&s3=dsize&s3d=-&pby=100&pno=1&sS=0&nostem=1&svL=&d1=&d1t=&d2=&d2t=&b1=&b1t=22&b2=&b2t=&px1=&px1t=&px2=&px2t=&fps1=&fps1t=&fps2=&fps2t=&bps1=&bps1t=&bps2=&bps2t=&hz1=&hz1t=&hz2=&hz2t=&rn1=&rn1t=&rn2=&rn2t=&submit=Search&fly=2"
+         }, {
+            "date_added": "13300321061066943",
+            "guid": "82298c38-011d-4f8a-8fff-e466cd3abb77",
+            "id": "5274",
+            "name": "oxide ghosts",
+            "type": "url",
+            "url": "http://www.michaelcumming.co.uk/oxide%20ghosts/"
+         }, {
+            "date_added": "13299494488252626",
+            "guid": "48d3e034-534b-462d-b5e6-11c9cf562775",
+            "id": "5257",
+            "name": "Free Event - Deep Learning & Memorisation (2022-06-11)",
+            "type": "url",
+            "url": "https://vimeo.com/719450341/fc52a86ab3"
+         }, {
+            "date_added": "13298588947135887",
+            "guid": "9de70035-12a5-4b5b-a13d-964dc4433705",
+            "id": "5235",
+            "name": "Mick's 'Nostalgia' Channel. - YouTube",
+            "type": "url",
+            "url": "https://www.youtube.com/channel/UCfKCo_LXUxwrrnVIFL2H_Pg/videos"
+         }, {
+            "children": [ {
+               "children": [ {
+                  "date_added": "13216568801000000",
+                  "guid": "a0caecc4-7592-4aed-9c03-32841c14eeeb",
+                  "id": "3518",
+                  "name": "Piano Lessons On The Web - YouTube",
+                  "type": "url",
+                  "url": "https://www.youtube.com/channel/UCAh-jIhQPq0XVuu3RN4zGaw"
+               }, {
+                  "date_added": "13277328006000000",
+                  "guid": "86ded204-d0b2-47b1-93fb-5fe3ef6e6d7f",
+                  "id": "3519",
+                  "name": "(6) MangoldProject - YouTube",
+                  "type": "url",
+                  "url": "https://www.youtube.com/c/MangoldProject/playlists"
+               }, {
+                  "date_added": "13216428854000000",
+                  "guid": "f4737bba-f5dc-423d-ad5b-fcbd78d104e7",
+                  "id": "3520",
+                  "name": "Creative Piano Academy - YouTube",
+                  "type": "url",
+                  "url": "https://www.youtube.com/channel/UC2VELs7Mfz81cZxC9A6-JOg"
+               }, {
+                  "date_added": "13218757949000000",
+                  "guid": "c7fb9d31-b374-4f3a-9c29-94d8e3a3d947",
+                  "id": "3521",
+                  "name": "Pianote - YouTube",
+                  "type": "url",
+                  "url": "https://www.youtube.com/user/PianoLessonscom/videos"
+               }, {
+                  "date_added": "13253666402000000",
+                  "guid": "9e871e17-7514-4679-8f36-c7152619eef2",
+                  "id": "3522",
+                  "name": "London Contemporary School of Piano - YouTube",
+                  "type": "url",
+                  "url": "https://www.youtube.com/c/LondonContemporarySchoolofPiano/videos"
+               }, {
+                  "date_added": "13254527972000000",
+                  "guid": "d04aa7e2-f9af-4f43-852e-4ef6d303802a",
+                  "id": "3523",
+                  "name": "Piano Lessons On The Web - YouTube",
+                  "type": "url",
+                  "url": "https://www.youtube.com/c/LessonsOnTheWeb/videos"
+               }, {
+                  "date_added": "13293993040660717",
+                  "guid": "8e28c0a1-5eee-463b-a7d9-a791b2a254d6",
+                  "id": "5122",
+                  "name": "pianoTV - YouTube",
+                  "type": "url",
+                  "url": "https://www.youtube.com/c/PianotvNet/videos"
+               }, {
+                  "date_added": "13274792442000000",
+                  "guid": "e2c3f139-cd0c-4562-a378-0cfcdcc01ace",
+                  "id": "3524",
+                  "name": "(1) Noah Kellman - YouTube",
+                  "type": "url",
+                  "url": "https://www.youtube.com/channel/UC97YN7gYqtdk6z9jYHOn_lQ"
+               }, {
+                  "date_added": "13251320826000000",
+                  "guid": "bb01a069-9f2a-4c4a-9c04-64e792aaae28",
+                  "id": "3525",
+                  "name": "Pianote - YouTube",
+                  "type": "url",
+                  "url": "https://www.youtube.com/channel/UC_DmCvOP5Q_eBMRDvqqRXjg"
+               }, {
+                  "date_added": "13276023300000000",
+                  "guid": "f91b4b1e-2f39-484e-9f27-c86ad55a7930",
+                  "id": "3526",
+                  "name": "(8) Alain Merville - YouTube",
+                  "type": "url",
+                  "url": "https://www.youtube.com/c/AlainMerville/videos"
+               }, {
+                  "date_added": "13255480565000000",
+                  "guid": "7947d8c7-52bd-4954-9419-156706493d47",
+                  "id": "3527",
+                  "name": "LivingPianosVideos - YouTube",
+                  "type": "url",
+                  "url": "https://www.youtube.com/user/LivingPianosVideos/videos"
+               }, {
+                  "date_added": "13252460049000000",
+                  "guid": "fc12c227-124e-4c34-b841-e4f169acc55f",
+                  "id": "3528",
+                  "name": "Nahre Sol - YouTube",
+                  "type": "url",
+                  "url": "https://www.youtube.com/channel/UC8R8FRt1KcPiR-rtAflXmeg"
+               }, {
+                  "date_added": "13253824235000000",
+                  "guid": "79caf3fb-c58e-4788-a642-84cf483d4702",
+                  "id": "3529",
+                  "name": "Ashish Xiangyi Kumar - YouTube",
+                  "type": "url",
+                  "url": "https://www.youtube.com/c/AshishXiangyiKumar/videos"
+               }, {
+                  "date_added": "13253908966000000",
+                  "guid": "59efc412-8a45-4de5-8d0a-03bc1d7e2bcb",
+                  "id": "3530",
+                  "name": "hanon piano exercises - YouTube",
+                  "type": "url",
+                  "url": "https://www.youtube.com/results?search_query=hanon+piano+exercises"
+               }, {
+                  "date_added": "13255553998000000",
+                  "guid": "737613d7-a79e-422b-b355-c15caca37ff1",
+                  "id": "3531",
+                  "name": "Hanon - Werner Richards / WRMStudio - YouTube",
+                  "type": "url",
+                  "url": "https://www.youtube.com/c/WrmusicstudioSA/videos"
+               }, {
+                  "date_added": "13258848102000000",
+                  "guid": "cb845646-ac8b-4f21-8f9b-0de801a6dedc",
+                  "id": "3532",
+                  "name": "Danae Dörken - YouTube",
+                  "type": "url",
+                  "url": "https://www.youtube.com/c/DanaeD%C3%B6rkenPiano/videos"
+               }, {
+                  "date_added": "13272640233000000",
+                  "guid": "de16e229-0c8e-4e0d-8e63-eb951a824e9b",
+                  "id": "3533",
+                  "name": "pianoTV - YouTube",
+                  "type": "url",
+                  "url": "https://www.youtube.com/c/PianotvNet/featured"
+               }, {
+                  "date_added": "13273273533000000",
+                  "guid": "3b6b9b7f-b3a1-4a41-ad2a-7480388e5399",
+                  "id": "3534",
+                  "name": "Learn Piano with Jazer Lee - YouTube",
+                  "type": "url",
+                  "url": "https://www.youtube.com/c/LearnPianowithJazerLee/playlists"
+               }, {
+                  "date_added": "13273329101000000",
+                  "guid": "2f007b4a-538a-406b-8c06-3b3102a8ccc1",
+                  "id": "3535",
+                  "name": "Liberty Park Music - YouTube",
+                  "type": "url",
+                  "url": "https://www.youtube.com/c/Libertyparkmusic_LPM/playlists"
+               }, {
+                  "date_added": "13273879219000000",
+                  "guid": "bf0486ef-3ad1-4cee-a1e4-46740dd8619c",
+                  "id": "3536",
+                  "name": "Liberty Park Music - YouTube",
+                  "type": "url",
+                  "url": "https://www.youtube.com/channel/UCKYJqwAi35MdD4U9orQ7doA"
+               }, {
+                  "date_added": "13274056991000000",
+                  "guid": "29ab8899-241a-4919-9fdc-96440b14f4c6",
+                  "id": "3537",
+                  "name": "Zero To Piano - YouTube",
+                  "type": "url",
+                  "url": "https://www.youtube.com/channel/UCzys5o1xQ1QBMCtraFKQHYg"
+               }, {
+                  "date_added": "13275076200000000",
+                  "guid": "45c69a52-a6a8-42bf-b86f-d4f9bd5766c3",
+                  "id": "3538",
+                  "name": "NewJazz - YouTube",
+                  "type": "url",
+                  "url": "https://www.youtube.com/c/NewJazz/about"
+               }, {
+                  "date_added": "13275254147000000",
+                  "guid": "2fb29eb8-6dc0-44dc-a572-733f048fdcd5",
+                  "id": "3539",
+                  "name": "The Art of Piano Technique - YouTube",
+                  "type": "url",
+                  "url": "https://www.youtube.com/channel/UC9Ti4ThCKJj4-oQMALH3KOw/playlists"
+               }, {
+                  "date_added": "13276556796000000",
+                  "guid": "69d3349c-5f17-441d-a815-d4654600fbcd",
+                  "id": "3540",
+                  "name": "PianoCareer - YouTube",
+                  "type": "url",
+                  "url": "https://www.youtube.com/channel/UCtT_GkgxBCbbLecptrRqSRg"
+               }, {
+                  "date_added": "13276564532000000",
+                  "guid": "eee8f7b2-7c44-458e-b852-0ce7f3c34b39",
+                  "id": "3541",
+                  "name": "CRZNDO Music - YouTube",
+                  "type": "url",
+                  "url": "https://www.youtube.com/channel/UCcz19WZ8NCcQtl6MubawSuQ"
+               }, {
+                  "date_added": "13276625130000000",
+                  "guid": "d3f66a78-95eb-4d40-b178-ec99cd71581f",
+                  "id": "3542",
+                  "name": "Music Theory - YouTube",
+                  "type": "url",
+                  "url": "https://www.youtube.com/playlist?list=PLjpPMe3LP1XKgqqzqz4j6M8-_M_soYxiV"
+               }, {
+                  "date_added": "13277337048000000",
+                  "guid": "408d0f23-0a54-4b95-b106-8745fba4102e",
+                  "id": "3543",
+                  "name": "Piano With Jonny - YouTube",
+                  "type": "url",
+                  "url": "https://www.youtube.com/c/PianoWithJonny/videos"
+               }, {
+                  "date_added": "13277853583000000",
+                  "guid": "3e513d53-9e4e-46e9-8d6b-b24c586beee1",
+                  "id": "3544",
+                  "name": "PianoTips - YouTube",
+                  "type": "url",
+                  "url": "https://www.youtube.com/channel/UCCd3LhOmx5hjoP5lw7oKmGw/playlists"
+               }, {
+                  "date_added": "13280060415000000",
+                  "guid": "776359b5-dbdf-4ae7-a443-3829d39476fb",
+                  "id": "3545",
+                  "name": "musictheoryguy - YouTube",
+                  "type": "url",
+                  "url": "https://www.youtube.com/user/musictheoryguy/videos"
+               }, {
+                  "date_added": "13293406247429922",
+                  "guid": "660b4b9c-46dc-4763-8d5c-34ab7347dcca",
+                  "id": "5104",
+                  "name": "(1) Sharon Bill - YouTube",
+                  "type": "url",
+                  "url": "https://www.youtube.com/c/SharonBill/videos"
+               }, {
+                  "date_added": "13295953539793353",
+                  "guid": "7530a1de-5d07-4d42-850f-b0f5c11d49ac",
+                  "id": "5167",
+                  "name": "webpianoacademy - YouTube",
+                  "type": "url",
+                  "url": "https://www.youtube.com/c/webpianoacademy/videos"
+               } ],
+               "date_added": "13291147313775451",
+               "date_modified": "13295953546050486",
+               "guid": "256a9d7a-429b-4472-af93-1e23b415dc5d",
+               "id": "3517",
+               "name": "Youtube Channels",
+               "type": "folder"
+            }, {
+               "date_added": "13301781105963591",
+               "guid": "a5c03663-3173-462f-87a7-6b0266af78e6",
+               "id": "5308",
+               "name": "AAS Lounge Lizard EP-4 electric piano plug-in VST AU AAX",
+               "type": "url",
+               "url": "https://www.applied-acoustics.com/lounge-lizard-ep-4/"
+            }, {
+               "date_added": "13280784254000000",
+               "guid": "eeeb3850-117a-4ff1-95fd-2ca947ebd3b4",
+               "id": "3546",
+               "name": "Piano From Scratch - YouTube",
+               "type": "url",
+               "url": "https://www.youtube.com/c/PianoFromScratch/playlists"
+            }, {
+               "date_added": "13296431895579875",
+               "guid": "6cef364f-c8d6-42c4-b2ee-8a65f40fb689",
+               "id": "5182",
+               "name": "Watch Me Get My Piano Scales Up to Speed - YouTube",
+               "type": "url",
+               "url": "https://www.youtube.com/watch?v=yxrA-jCZJ6M"
+            }, {
+               "date_added": "13293370959137558",
+               "guid": "a2152ca4-f455-4db1-a261-5250a690b2d1",
+               "id": "5097",
+               "name": "Widmung by Schumann-Liszt - YouTube",
+               "type": "url",
+               "url": "https://www.youtube.com/watch?v=p07ocmCXzj0"
+            }, {
+               "date_added": "13282331838000000",
+               "guid": "cdd9069b-2e28-4dcf-9f3d-50d8bd6e09c6",
+               "id": "3547",
+               "name": "Schubert: Fantasie in F minor - Lucas & Arthur Jussen - YouTube",
+               "type": "url",
+               "url": "https://www.youtube.com/watch?v=UyjzqPPXDcw"
+            }, {
+               "date_added": "13280627212000000",
+               "guid": "9c1119d5-5116-41ac-953c-931e6f6f5662",
+               "id": "3548",
+               "name": "Franz Schubert: Fantasia Op.103 | Presto Music",
+               "type": "url",
+               "url": "https://www.prestomusic.com/sheet-music/products/7759204--franz-schubert-fantasia-op-103#about"
+            }, {
+               "date_added": "13277742654000000",
+               "guid": "8e6cb0f8-b593-430f-918c-950016698aea",
+               "id": "3549",
+               "name": "Home | Le Cheile Music",
+               "type": "url",
+               "url": "https://www.lecheilemusic.com/"
+            }, {
+               "date_added": "13291563037092286",
+               "guid": "2c5ac265-c0ad-462d-bab8-f1aebcd069db",
+               "id": "5061",
+               "name": "4 Wrist Movements EVERY PIANIST SHOULD KNOW! Piano Playing Fundamentals: Detailed Demo with Examples - YouTube",
+               "type": "url",
+               "url": "https://www.youtube.com/watch?v=rBFsnGYQysM"
+            }, {
+               "date_added": "13278284610000000",
+               "guid": "25d581c5-6c96-43ce-88c4-e3203967c2b2",
+               "id": "3550",
+               "name": "(3) Why I like Rhythm Sight Reading Trainer and How To Use It - YouTube",
+               "type": "url",
+               "url": "https://www.youtube.com/watch?v=bIgMn09Cxmc"
+            }, {
+               "date_added": "13294856218540701",
+               "guid": "d8defb08-04ff-4212-89f8-ded13f14581f",
+               "id": "5139",
+               "name": "Mozart Sonata No.16 in C Major K. 545 \"Sonata Facile\" [Complete] | PIA",
+               "type": "url",
+               "url": "https://pianoskillsandmagic.teachable.com/p/mozart-sonata-no-16-in-c-major-k-545-sonata-facile-complete"
+            }, {
+               "date_added": "13277327759000000",
+               "guid": "ae78889d-34ab-4991-be3f-266e7bd3a867",
+               "id": "3551",
+               "name": "(6) The Leeds International Piano Competition 2021 - YouTube",
+               "type": "url",
+               "url": "https://www.youtube.com/playlist?list=PLDgJJZYFP7IpoXBsLPcOnlxu6fjo9KGK_"
+            }, {
+               "date_added": "13276023113000000",
+               "guid": "37cb2e24-d9ca-4bc8-9aa1-a97f640a8117",
+               "id": "3552",
+               "name": "ChordieApp – Musical Tools For Everyone",
+               "type": "url",
+               "url": "https://www.chordieapp.com/"
+            }, {
+               "date_added": "13276125586000000",
+               "guid": "c83899e3-4724-4db7-989a-1d84a979f323",
+               "id": "3553",
+               "name": "#LEEDSPIANO - First Round with Elizaveta Kliuchereva",
+               "type": "url",
+               "url": "https://leedspiano.medici.tv/en/replay/first-round-with-elizaveta-kliuchereva/"
+            }, {
+               "date_added": "13276904503000000",
+               "guid": "86d9f471-01f0-42d0-aa99-1c0933a2f9b4",
+               "id": "3554",
+               "name": "Welcome to ToneGym",
+               "type": "url",
+               "url": "https://www.tonegym.co/welcome/index"
+            }, {
+               "date_added": "13272912721000000",
+               "guid": "51cee7a9-dd29-4ed5-9840-e849f2a6505b",
+               "id": "3555",
+               "name": "musictheory.net - Exercises",
+               "type": "url",
+               "url": "https://www.musictheory.net/exercises"
+            }, {
+               "date_added": "13293481964900363",
+               "guid": "8e7c7a5b-8535-4730-87b6-d7905e2b728f",
+               "id": "5108",
+               "name": "Best VST Piano Plugin in 2022 - How I Get My Sound - YouTube",
+               "type": "url",
+               "url": "https://www.youtube.com/watch?v=_Ou99DaeXIA"
+            }, {
+               "date_added": "13274631947000000",
+               "guid": "1d506ad8-253f-4fd8-84c5-bf7758e82d08",
+               "id": "3556",
+               "name": "Rhythmic Dictation",
+               "type": "url",
+               "url": "https://www.teoria.com/en/exercises/rd4.php"
+            }, {
+               "date_added": "13280627208000000",
+               "guid": "b14baca4-2764-46e7-8f87-2f17eadd0cb3",
+               "id": "3557",
+               "name": "Franz Schubert: Fantasia Op.103 | Presto Music",
+               "type": "url",
+               "url": "https://www.prestomusic.com/sheet-music/products/7759204--franz-schubert-fantasia-op-103#about"
+            }, {
+               "date_added": "13274631359000000",
+               "guid": "ecc1475a-cc90-442b-9a1c-a08af761f67d",
+               "id": "3558",
+               "name": "The Rhythm Randomizer",
+               "type": "url",
+               "url": "https://www.rhythmrandomizer.com/"
+            }, {
+               "date_added": "13274632058000000",
+               "guid": "c30988cb-61d1-4a1d-9476-ed985ed3bc01",
+               "id": "3559",
+               "name": "teoria - Tutorials",
+               "type": "url",
+               "url": "https://www.teoria.com/en/tutorials/"
+            }, {
+               "date_added": "13282435422000000",
+               "guid": "37a80744-4810-496b-8020-034dcbdc70e8",
+               "id": "3560",
+               "name": "Sir András Schiff | Schubert Lecture-recital - Live at Wigmore Hall - YouTube",
+               "type": "url",
+               "url": "https://www.youtube.com/watch?v=ViZu8ATTqc8"
+            }, {
+               "date_added": "13273793555000000",
+               "guid": "44bf559e-e705-4729-894e-082c68aaed8f",
+               "id": "3561",
+               "name": "Yuja Wang plays Mélodie de Gluck/Orfeo ed Euridice - YouTube",
+               "type": "url",
+               "url": "https://www.youtube.com/watch?v=QA9GCwstBMM"
+            }, {
+               "date_added": "13275936135000000",
+               "guid": "39ff6dcf-d049-46df-81f6-e327b96c1edf",
+               "id": "3562",
+               "name": "Gluck - Dance of the Blessed Spirtis (from Orpheus and Eurydice) - YouTube",
+               "type": "url",
+               "url": "https://www.youtube.com/watch?v=AbrAMjVVodA"
+            }, {
+               "date_added": "13275436351000000",
+               "guid": "f9d85cfa-fcfc-4212-b39c-461648b76843",
+               "id": "3563",
+               "name": "Sergey Rachmaninov plays Gluck \"Melody\" - YouTube",
+               "type": "url",
+               "url": "https://www.youtube.com/watch?v=_XQ6tjxuJ6g"
+            }, {
+               "date_added": "13275328669000000",
+               "guid": "ef3f6e84-2295-4383-926c-3b530ac7f00e",
+               "id": "3564",
+               "name": "Stretta Music | Online Sheet Music Shop | Sheet Music, Scores, PDFs & Publications",
+               "type": "url",
+               "url": "https://www.stretta-music.com/en/"
+            }, {
+               "date_added": "13222132127000000",
+               "guid": "50997b83-3117-437a-93a7-45c3aa2498b7",
+               "id": "3565",
+               "name": "RAY MANZAREK-RIDERS ON THE STORM - YouTube",
+               "type": "url",
+               "url": "https://www.youtube.com/watch?v=3deQXzV-qTk"
+            }, {
+               "date_added": "13275244342000000",
+               "guid": "10478110-6baf-43c6-8444-65ab3b4c94d7",
+               "id": "3566",
+               "name": "The Ultimate Piano Chords Course - for Piano & Keyboard",
+               "type": "url",
+               "url": "https://booking.udemy.com/course/the-ultimate-piano-chord-course-for-piano-keyboard/learn/lecture/10461002#overview"
+            }, {
+               "date_added": "13219624771000000",
+               "guid": "ec3a3c02-d029-4fa0-be3d-8b31cfb982cf",
+               "id": "3567",
+               "name": "Sight Reading Factory®",
+               "type": "url",
+               "url": "https://www.sightreadingfactory.com/"
+            }, {
+               "date_added": "13219270102000000",
+               "guid": "57a80536-06ab-4ed0-98a3-3817b523a04b",
+               "id": "3568",
+               "name": "Piano Sonata in B-flat major, D.960 (Schubert, Franz) - IMSLP: Free Sheet Music PDF Download",
+               "type": "url",
+               "url": "https://imslp.org/wiki/Piano_Sonata_in_B-flat_major%2C_D.960_(Schubert%2C_Franz)"
+            }, {
+               "date_added": "13281661577000000",
+               "guid": "3d929230-7ca5-4084-96ae-0d33be0bb6f5",
+               "id": "3569",
+               "name": "Beethoven Piano Sonata No. 17 in D minor, Op. 31, No. 2 3rd movement - YouTube",
+               "type": "url",
+               "url": "https://www.youtube.com/watch?v=F39H9rtWCoY"
+            }, {
+               "date_added": "13283180002000000",
+               "guid": "9f0b6fa7-e8c2-4611-b0e0-995d69168302",
+               "id": "3570",
+               "name": "Schubert, Trio No. 2, Op. 100, Andante con moto | Ambroise Aubrun, Maëlle Vilbert, Julien Hanck - YouTube",
+               "type": "url",
+               "url": "https://www.youtube.com/watch?v=nioKJNp8ADE"
+            }, {
+               "date_added": "13273793901000000",
+               "guid": "70737058-0999-4aba-a868-3f2d7bee4c9d",
+               "id": "3571",
+               "name": "Mozart Piano Sonata No 16 C major K 545 Barenboim - YouTube",
+               "type": "url",
+               "url": "https://www.youtube.com/watch?v=1vDxlnJVvW8"
+            }, {
+               "date_added": "13273706460000000",
+               "guid": "94954823-d4ef-486d-81bf-0cdab43337a2",
+               "id": "3572",
+               "name": "Classical Piano Music | Piano Street",
+               "type": "url",
+               "url": "https://www.pianostreet.com/"
+            }, {
+               "date_added": "13274831807000000",
+               "guid": "058210be-465e-448d-a3c9-842ef78372a8",
+               "id": "3573",
+               "name": "CFX Concert Grand virtual piano - Garritan",
+               "type": "url",
+               "url": "https://www.garritan.com/products/cfx-concert-grand-virtual-piano/"
+            }, {
+               "date_added": "13215972190000000",
+               "guid": "48bd9d65-d138-44e0-858e-ef68ef3cf644",
+               "id": "3574",
+               "name": "Music Theory for Musicians and Normal People",
+               "type": "url",
+               "url": "https://tobyrush.com/theorypages/index.html"
+            }, {
+               "date_added": "13215972176000000",
+               "guid": "80e68449-8509-4c7c-a254-23f9a1292c33",
+               "id": "3575",
+               "name": "PS99-the-whole-enchilada-set",
+               "type": "url",
+               "url": "https://tobyrush.com/theorypages/pdf/en-us/the-whole-enchilada-set.pdf"
+            }, {
+               "date_added": "13291248744827527",
+               "guid": "9df970bd-5fc5-4104-8490-e0684d1d088d",
+               "id": "5058",
+               "name": "Yulianna Avdeeva – Concerto in E minor, Op. 11 (final stage, 2010) - YouTube",
+               "type": "url",
+               "url": "https://www.youtube.com/watch?v=CHJ_dl-ouTo"
+            }, {
+               "date_added": "13275954392000000",
+               "guid": "1618cf1b-6cc3-478a-aeb3-4426bc96c85d",
+               "id": "3576",
+               "name": "🇫🇷 🇬🇪 Khatia Buniatishvili - La Marseillaise. After Final 2018/ ხატია ბუნიათიშვილი-საფრანგეთის ჰიმნი - YouTube",
+               "type": "url",
+               "url": "https://www.youtube.com/watch?v=nifspyswb-8"
+            }, {
+               "date_added": "13218414069000000",
+               "guid": "5611e97c-3f70-4e5c-9dae-01cb15cf7fc8",
+               "id": "3577",
+               "name": "Become better at Sight Reading with Practice Sight Reading.com",
+               "type": "url",
+               "url": "https://practicesightreading.com/"
+            }, {
+               "date_added": "13251150999000000",
+               "guid": "9cccde3f-cb62-4b22-8c60-5e2c0c817fcb",
+               "id": "3578",
+               "name": "Piano Sight-Reading Development with 25 Exercises | Udemy",
+               "type": "url",
+               "url": "https://www.udemy.com/course/piano-sight-reading/"
+            }, {
+               "date_added": "13274802018000000",
+               "guid": "77ef9701-34f1-4a00-93bb-3e6fd8a4f8fe",
+               "id": "3579",
+               "name": "Pianophilia - Index page",
+               "type": "url",
+               "url": "http://www.pianophilia.com/phpBB3/index.php"
+            }, {
+               "date_added": "13251151696000000",
+               "guid": "08ed7d17-003a-462f-82c1-16e89f696d16",
+               "id": "3580",
+               "name": "Sight reading app recommendations : piano",
+               "type": "url",
+               "url": "https://www.reddit.com/r/piano/comments/9ukmsz/sight_reading_app_recommendations/"
+            }, {
+               "date_added": "13251151782000000",
+               "guid": "132c011b-81c7-4e2d-8483-b0125f30e68a",
+               "id": "3581",
+               "name": "Sight Reading Trainer",
+               "type": "url",
+               "url": "https://sightreading.training/"
+            }, {
+               "date_added": "13249236845000000",
+               "guid": "13ef05bd-b234-40bb-b7d3-e1eeda1a5112",
+               "id": "3582",
+               "name": "Piano score; Orfeo by Gluck (Sgambati) - YouTube",
+               "type": "url",
+               "url": "https://www.youtube.com/watch?v=5kMSvJ3U1iI"
+            }, {
+               "date_added": "13249684282000000",
+               "guid": "14da8f99-b3af-4bdf-9bdc-447f8e9d9592",
+               "id": "3583",
+               "name": "Gluck/Sgambati Paul Barton",
+               "type": "url",
+               "url": "https://www.youtube.com/watch?v=oRPMx3D4bJI"
+            }, {
+               "date_added": "13250630293000000",
+               "guid": "779ec722-da8f-4753-875e-1e5719f8c5b0",
+               "id": "3584",
+               "name": "Read Music FAST!",
+               "type": "url",
+               "url": "https://booking.udemy.com/course/sight-reading/learn/lecture/2047698#overview"
+            }, {
+               "date_added": "13251355850000000",
+               "guid": "f7987ff8-a878-4551-aaa1-48b90603db8b",
+               "id": "3585",
+               "name": "Improvisation(即興曲) - YouTube - Oskar Merikanto, Op.76 No.3",
+               "type": "url",
+               "url": "https://www.youtube.com/watch?v=zFmXrlO3A-A"
+            }, {
+               "date_added": "13251356258000000",
+               "guid": "a3f0098e-ae0f-46d4-966f-dbf54559f2cf",
+               "id": "3586",
+               "name": "Popular Piano Pieces from Merikanto Oskar | buy now in Stretta sheet music shop",
+               "type": "url",
+               "url": "https://www.stretta-music.com/en/merikantooskar-popular-piano-pieces-nr-372541.html"
+            }, {
+               "date_added": "13274544951000000",
+               "guid": "cde7e813-6ded-48c3-a17e-4a75b26371c7",
+               "id": "3587",
+               "name": "This food diagram will teach you the basics of rhythm - Classic FM",
+               "type": "url",
+               "url": "https://www.classicfm.com/discover-music/music-theory/food-rhythm-cheat-sheet/"
+            }, {
+               "children": [ {
+                  "date_added": "13251414388000000",
+                  "guid": "53d6e474-5127-4b3a-9dbb-8ba37f9cf710",
+                  "id": "3589",
+                  "name": "Popular Piano Pieces by Oskar Merikanto » all-sheetmusic.com",
+                  "type": "url",
+                  "url": "https://www.all-sheetmusic.com/Piano-Organ-Accordion/Piano/Popular-Piano-Pieces.html"
+               } ],
+               "date_added": "13291147313776383",
+               "date_modified": "0",
+               "guid": "b1c683da-10e2-4608-bc36-2ce56b508fa9",
+               "id": "3588",
+               "name": "Oskar Merikanto",
+               "type": "folder"
+            }, {
+               "date_added": "13136420078000000",
+               "guid": "101e9000-ed46-4637-b517-f175854b682a",
+               "id": "3590",
+               "name": "How To Figure Out Chords To Songs - YouTube",
+               "type": "url",
+               "url": "https://www.youtube.com/watch?v=imj7FniRzyY"
+            }, {
+               "date_added": "13252351470000000",
+               "guid": "c95546f8-f5de-4f0e-81f2-b415c23e8151",
+               "id": "3591",
+               "name": "ABRSM Initial Piano (2021 & 2022): All 9 Pieces - YouTube",
+               "type": "url",
+               "url": "https://www.youtube.com/watch?v=k7aLx-iispw"
+            }, {
+               "date_added": "13252714075000000",
+               "guid": "4d9d5b2d-1a2e-4c70-8b05-ee9d69acd123",
+               "id": "3592",
+               "name": "Trinity College London Grade 1 Piano Exam - YouTube",
+               "type": "url",
+               "url": "https://www.youtube.com/watch?v=ryB9i34vLIE"
+            }, {
+               "date_added": "13252859113000000",
+               "guid": "5846e1ee-c964-45cc-821f-f32ae809c758",
+               "id": "3593",
+               "name": "Piano Masterclass on Ravel - Jeux d'eau : Jean Yves Thibaudet teaches Nicolas van Poucke - YouTube",
+               "type": "url",
+               "url": "https://www.youtube.com/watch?v=SJo0CMpmFes&list=LL&index=3&t=1500s"
+            }, {
+               "date_added": "13252859119000000",
+               "guid": "c8a76098-e9cc-4512-bea1-557145ad453f",
+               "id": "3594",
+               "name": "Practicing Ravel Jeux d'eau - YouTube",
+               "type": "url",
+               "url": "https://www.youtube.com/watch?v=TKo36gkXFeQ&list=LL&index=5&t=496s"
+            }, {
+               "date_added": "13254185373000000",
+               "guid": "13b4e471-284f-491e-b67a-0ae5f04938ed",
+               "id": "3595",
+               "name": "StaffPad & Other Pen Entry Notation Devices | VI-CONTROL",
+               "type": "url",
+               "url": "https://vi-control.net/community/forums/staffpad-other-pen-entry-notation-devices.184/"
+            }, {
+               "date_added": "13254352972000000",
+               "guid": "750c7ff8-24de-4c91-9781-51e8305de47d",
+               "id": "3596",
+               "name": "List of musical symbols - Wikipedia",
+               "type": "url",
+               "url": "https://en.wikipedia.org/wiki/List_of_musical_symbols"
+            }, {
+               "date_added": "13254672236000000",
+               "guid": "f93dfad1-c9fd-4fe9-988b-5355ac40c076",
+               "id": "3597",
+               "name": "MANCHESTER PIANO LESSONS | Ugnius Pianist",
+               "type": "url",
+               "url": "https://www.ugniuspauliukonis.com/piano-lessons-in-manchester"
+            }, {
+               "date_added": "13254782186000000",
+               "guid": "cc8404e1-83a6-473e-acd1-49c2e8b1e7b8",
+               "id": "3598",
+               "name": "7 Tips for Developing Hand Independence on Piano",
+               "type": "url",
+               "url": "https://www.thrivepiano.com/developing-hand-independence-on-piano/"
+            }, {
+               "date_added": "13255474920000000",
+               "guid": "a1d22dbe-5e0b-4253-9935-f8a64d802803",
+               "id": "3599",
+               "name": "Hanon exercises - 240 Piano finger exercises in all keys",
+               "type": "url",
+               "url": "https://www.hanon-online.com/"
+            }, {
+               "date_added": "13256266871000000",
+               "guid": "a272b086-f65d-447f-a44b-5e86032d2001",
+               "id": "3600",
+               "name": "Piano mag",
+               "type": "url",
+               "url": "https://pocketmags.com/onlinereader/html5_reader/false/210070"
+            }, {
+               "date_added": "13257112281000000",
+               "guid": "9776e7b0-b16e-40d8-89f7-79d5cf9132f7",
+               "id": "3601",
+               "name": "Pianist - Helping you become a better player",
+               "type": "url",
+               "url": "https://www.pianistmagazine.com/"
+            }, {
+               "date_added": "13258847146000000",
+               "guid": "ee7e55f1-9027-4e78-9364-04b2be0a2e48",
+               "id": "3602",
+               "name": "Valentina Lisitsa Liszt La Campanella from Paganini Etude No.3 - YouTube",
+               "type": "url",
+               "url": "https://www.youtube.com/watch?v=ZY_eIIFqNxg"
+            }, {
+               "date_added": "13259017432000000",
+               "guid": "1da048d2-cbc4-460b-b402-808361f2512f",
+               "id": "3603",
+               "name": "Piano, Harpsichord, Harp",
+               "type": "url",
+               "url": "https://schottmusiclondon.com/shop/sheet-music-books/piano-harpsichord-harp.html"
+            }, {
+               "date_added": "13260608278000000",
+               "guid": "4c193ade-1314-4472-9ffe-d5a3566058c9",
+               "id": "3604",
+               "name": "Piano Chords - Piano World",
+               "type": "url",
+               "url": "https://pianoworld.com/fun-stuff/piano-chords/"
+            }, {
+               "date_added": "13261409443000000",
+               "guid": "cd9e1488-1d85-4817-a10d-605fd72d8091",
+               "id": "3605",
+               "name": "Pianojacq",
+               "type": "url",
+               "url": "https://pianojacq.com/"
+            }, {
+               "date_added": "13263507294000000",
+               "guid": "5fddfe79-416c-43e7-a634-1458f659e859",
+               "id": "3606",
+               "name": "CHOPIN PRELUDE Op. 28 No. 3 Piano Tutorial // MAKE YOUR LEFT HAND SOUND LIGHT, EVEN AND EFFORTLESS - YouTube",
+               "type": "url",
+               "url": "https://www.youtube.com/watch?v=EoG-yE8B0hM"
+            }, {
+               "date_added": "13265032041000000",
+               "guid": "4e869430-08ba-4d83-8f29-0f97da4c1d95",
+               "id": "3607",
+               "name": "Practising the Piano How to Use Hanon With Purpose - Practising the Piano",
+               "type": "url",
+               "url": "https://practisingthepiano.com/how-to-use-hanon/"
+            }, {
+               "date_added": "13265032098000000",
+               "guid": "5fc8a22b-129c-4ceb-9391-7996938c6723",
+               "id": "3608",
+               "name": "How I Practice Piano – Frog Urn Citadel",
+               "type": "url",
+               "url": "https://frogurncitadel.wordpress.com/2021/03/27/how-i-practice-piano/"
+            }, {
+               "date_added": "13265032192000000",
+               "guid": "826ddfc9-0438-406e-96d3-021017d66c4a",
+               "id": "3609",
+               "name": "How I Practice Piano | Hacker News",
+               "type": "url",
+               "url": "https://news.ycombinator.com/item?id=27085922"
+            }, {
+               "date_added": "13273517578000000",
+               "guid": "1d822f56-f3e3-43ac-8992-d9940942c3bb",
+               "id": "3610",
+               "name": "Stretta Music | Online Sheet Music Shop | Sheet Music, Scores, PDFs & Publications",
+               "type": "url",
+               "url": "https://www.stretta-music.de/en/"
+            }, {
+               "date_added": "13273606564000000",
+               "guid": "ad93261a-ed6f-4f48-a039-055383f4d5ab",
+               "id": "3611",
+               "name": "Spectrasonics - Keyscape - Collector Keyboards",
+               "type": "url",
+               "url": "https://www.spectrasonics.net/products/keyscape/"
+            }, {
+               "date_added": "13274229159000000",
+               "guid": "5e6a237f-26a7-4e5a-b6ed-193756802f24",
+               "id": "3612",
+               "name": "Piano live, Gluck-Sgambati Melody from Orpheus et Eurydice, Hubert Harry - Piano - YouTube",
+               "type": "url",
+               "url": "https://www.youtube.com/watch?v=JW6M4SCjv08"
+            }, {
+               "date_added": "13274564209000000",
+               "guid": "07798f0b-df00-48ba-8548-da3041ce73f0",
+               "id": "3613",
+               "name": "Guiomar Novaes plays Gluck - Sgambati Melodie from \"Orfeo e Euridice\" - YouTube",
+               "type": "url",
+               "url": "https://www.youtube.com/watch?v=io-7CqUkuPI"
+            }, {
+               "date_added": "13275004803000000",
+               "guid": "abae9c8a-2912-4a0c-92e2-c4b30eaaa399",
+               "id": "3614",
+               "name": "8 Sick Diminished Licks for Jazz Piano - YouTube",
+               "type": "url",
+               "url": "https://www.youtube.com/watch?v=2F6ftXEAawY&list=LL&index=9&t=199s"
+            }, {
+               "date_added": "13275676975000000",
+               "guid": "7b1fb4dc-3949-46f7-9c4f-ddf6b6fed6c6",
+               "id": "3615",
+               "name": "KAWAI CA 99 Digital Piano",
+               "type": "url",
+               "url": "https://www.kawai.co.uk/products/digitalpianos/caseries/ca99/"
+            }, {
+               "date_added": "13278199586000000",
+               "guid": "847e35f5-50db-468b-b49e-c5ad3dfe506b",
+               "id": "3616",
+               "name": "Víkingur Ólafsson – Galuppi: Piano Sonata No. 9 in F Minor: I. Andante spiritoso - YouTube",
+               "type": "url",
+               "url": "https://www.youtube.com/watch?v=8vX1oKQ7D5E"
+            }, {
+               "date_added": "13279582154000000",
+               "guid": "8ee4ef55-3367-401f-aa4d-b8ad69aa7c96",
+               "id": "3617",
+               "name": "ALEKSANDRA HORTENSJA DĄBEK – first round (18th Chopin Competition, Warsaw) - YouTube",
+               "type": "url",
+               "url": "https://www.youtube.com/watch?v=4zQS2TUzRWw"
+            }, {
+               "date_added": "13282499298000000",
+               "guid": "5750457f-8d5b-4745-8087-8e95ba29516e",
+               "id": "4233",
+               "name": "Sir András Schiff | Schubert Lecture-recital - Live at Wigmore Hall - YouTube",
+               "type": "url",
+               "url": "https://www.youtube.com/watch?v=ViZu8ATTqc8"
+            }, {
+               "date_added": "13294619763384055",
+               "guid": "ed466a0a-c246-4ff8-b923-7444f963813e",
+               "id": "5134",
+               "name": "Modartt: Pianoteq",
+               "type": "url",
+               "url": "https://www.modartt.com/pianoteq"
+            }, {
+               "date_added": "13294857213450700",
+               "guid": "501826f0-7dcb-462c-a77a-92a9831786a6",
+               "id": "5140",
+               "name": "IMPROVE HAND INDEPENDENCE ON THE PIANO // Get Better At Playing With 2 Hands - Piano Tutorial - YouTube",
+               "type": "url",
+               "url": "https://www.youtube.com/watch?v=1ufzfQyY7ss"
+            }, {
+               "date_added": "13297210869700232",
+               "guid": "b97dd5b3-afb2-4e36-846e-5b8a3a190fd2",
+               "id": "5197",
+               "name": "Arvo Pärt - \"Fratres\" for violin and piano (audio + sheet music) - YouTube",
+               "type": "url",
+               "url": "https://www.youtube.com/watch?v=RNVoZVFpW58"
+            }, {
+               "date_added": "13297465980156317",
+               "guid": "fe5da88d-7979-4fd7-ae08-d2d0d24d7bd5",
+               "id": "5206",
+               "name": "5 Right Hand Patterns That Turn Beginners Into Pros - YouTube",
+               "type": "url",
+               "url": "https://www.youtube.com/watch?v=w3UZHMlWF7U"
+            }, {
+               "date_added": "13300299156947960",
+               "guid": "f4b62a44-c243-488c-989c-70d3337e18ca",
+               "id": "5273",
+               "name": "EarMaster Subscription Signup",
+               "type": "url",
+               "url": "https://cloud.earmaster.com/ssignup/?via=emmanuelle"
+            }, {
+               "date_added": "13301781081972317",
+               "guid": "46185a77-2159-48e2-9c4f-77d798db6314",
+               "id": "5307",
+               "name": "AAS Lounge Lizard EP-4 electric piano plug-in VST AU AAX",
+               "type": "url",
+               "url": "https://www.applied-acoustics.com/lounge-lizard-ep-4/"
+            } ],
+            "date_added": "13291147313775327",
+            "date_modified": "13301832060855915",
+            "guid": "0f409cab-b70f-4693-baa7-c47f6036d969",
+            "id": "3516",
+            "name": "Piano",
+            "type": "folder"
+         }, {
+            "date_added": "13300926982779091",
+            "guid": "6fb60fb3-53ab-4ad2-aec5-c20461df3157",
+            "id": "5286",
+            "name": "777 - Doudou MD | HÖR - Jun 28 / 2022 - YouTube",
+            "type": "url",
+            "url": "https://www.youtube.com/watch?v=TFCElO2SSEw"
+         }, {
+            "date_added": "13298656670707924",
+            "guid": "879a55c9-5794-4970-a3c9-4cb222775b6f",
+            "id": "5236",
+            "name": "Quest - Maruwa B2B Younger Than Me | HÖR - Jun 2 / 2022 - YouTube",
+            "type": "url",
+            "url": "https://www.youtube.com/watch?v=Bd7iLbUOK9U"
+         }, {
+            "date_added": "13298161190342956",
+            "guid": "34c55627-382f-4414-954f-e206fca2937b",
+            "id": "5222",
+            "name": "Repeat Performance: Amazon.co.uk: Louis Hayward, Joan Leslie, Virginia Field, Tom Conway, Richard Basehart, Abe Dinovitch, Jean Dutriz, Tim Murdock, Lory Leeman, Mildred Sellers, Mike Lally, Dick Gordon, Alfred Werker, John Ireland, Alfred L. Werker, Aubrey Schenk, Natalie Schafer, Benay Venuta, Ilka Gruning, Bud Townsend, Gale Ronn, Ann Roberts, Valerie Traxler, Patrick Hurst, Raymond Largay, Jean del Val, Mack Williams, Alf Haugan, Michael Markham, Leland Hodgson, Phillip Morris: DVD & Blu-ray",
+            "type": "url",
+            "url": "https://www.amazon.co.uk/dp/B09M7PFXBL/ref=cbw_us_gb_dp_ags?smid=A2KVF7QXNCLV8H"
          }, {
             "date_added": "13296430901806900",
             "guid": "8751c30b-00bf-4224-8ef3-6e4034a08920",
@@ -36262,7 +36283,7 @@
             "url": "https://www.google.com/maps/place/Station+Rd,+Peterlee/@54.7857918,-1.3223462,17z/data=!3m1!4b1!4m5!3m4!1s0x487e602411f7f34b:0x1a4f110da42d90f7!8m2!3d54.7857918!4d-1.3201575"
          } ],
          "date_added": "13291147100367045",
-         "date_modified": "13301792000988808",
+         "date_modified": "13301876979999143",
          "guid": "0bc5d13f-2cba-5d74-951f-3f233fe6c908",
          "id": "1",
          "name": "Bookmarks Bar",
