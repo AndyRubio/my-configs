@@ -7,6 +7,9 @@ alias myconfig=''
 
 start=$(date +"%T")
 
+# Ever Decreasing Circles
+gip b00hxpsm --pid-recursive 
+
 # Trom
 gip  p0cffcx0 --pid-recursive 
 
