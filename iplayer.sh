@@ -7,6 +7,9 @@ alias myconfig=''
 
 start=$(date +"%T")
 
+# World of Classical
+gip m0018yld --pid-recursive --cuesheet
+
 # A Very British History
 gip b0btrpzf  --pid-recursive
 
