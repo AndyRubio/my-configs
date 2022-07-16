@@ -7,6 +7,30 @@ alias myconfig=''
 
 start=$(date +"%T")
 
+# A Very British History
+gip b0btrpzf  --pid-recursive
+
+# Talking Pictures
+gip b052vfvv  --pid-recursive
+
+# Bette Davis: The Benevolent Volcano
+gip m0019dwz
+
+# Dark Victory
+gip m0019dx2
+
+# Now, Voyager
+gip b007874m
+
+# Charles I: Killing a King
+gip m000cdzg --pid-recursive
+
+# Boys from the Blackstuff
+gip b00v39pm  --pid-recursive 
+
+# Second City Firsts
+gip m0019dxs --pid-recursive 
+
 # Ever Decreasing Circles
 gip b00hxpsm --pid-recursive 
 
@@ -431,6 +455,10 @@ gip p09lx0dh   --pid-recursive
 
 # In Tune
 gip b006tp0c --pid-recursive  --cuesheet
+
+
+# Michael Clark
+gip b0b2m5g8
 
 # Porridge
 # gip b006m9kn --pid-recursive
