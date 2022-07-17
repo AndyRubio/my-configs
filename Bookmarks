@@ -1,5 +1,5 @@
 {
-   "checksum": "dd539280ce38e7627b4e528cc17b9d72",
+   "checksum": "ff2ada8d8cdf69a426e4249a7dba5c31",
    "roots": {
       "bookmark_bar": {
          "children": [ {
@@ -29192,9 +29192,16 @@
                "name": "AAS Lounge Lizard EP-4 electric piano plug-in VST AU AAX",
                "type": "url",
                "url": "https://www.applied-acoustics.com/lounge-lizard-ep-4/"
+            }, {
+               "date_added": "13302529315842169",
+               "guid": "d09bf96f-03db-4697-ab05-1e893e4ba53b",
+               "id": "5324",
+               "name": "Music: Practice & Theory Stack Exchange",
+               "type": "url",
+               "url": "https://music.stackexchange.com/"
             } ],
             "date_added": "13291147313775327",
-            "date_modified": "13301832060855915",
+            "date_modified": "13302529320347682",
             "guid": "0f409cab-b70f-4693-baa7-c47f6036d969",
             "id": "3516",
             "name": "Piano",
@@ -36276,7 +36283,7 @@
             "url": "https://www.google.com/maps/place/Station+Rd,+Peterlee/@54.7857918,-1.3223462,17z/data=!3m1!4b1!4m5!3m4!1s0x487e602411f7f34b:0x1a4f110da42d90f7!8m2!3d54.7857918!4d-1.3201575"
          } ],
          "date_added": "13291147100367045",
-         "date_modified": "13302431528600463",
+         "date_modified": "13302529315842169",
          "guid": "0bc5d13f-2cba-5d74-951f-3f233fe6c908",
          "id": "1",
          "name": "Bookmarks Bar",

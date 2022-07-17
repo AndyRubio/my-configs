@@ -2,13 +2,16 @@
 
 shopt -s expand_aliases
 
-alias gip='get_iplayer --file-prefix="<name> - <episode> <pid> <version>" --pid '
+alias gip='get_iplayer --file-prefix="<name> - <episode> <pid> <version>" --credits --pid '
 alias myconfig=''
 
 start=$(date +"%T")
 
+# Benjamin Britten on Camera
+gip b03j42wt
+
 # World of Classical
-gip m0018yld --pid-recursive --cuesheet
+gip m0018yld --pid-recursive --cuesheet 
 
 # A Very British History
 gip b0btrpzf  --pid-recursive
