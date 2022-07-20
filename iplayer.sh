@@ -2,10 +2,16 @@
 
 shopt -s expand_aliases
 
-alias gip='get_iplayer --file-prefix="<name> - <episode> <pid> <version>" --credits --pid '
+alias gip='get_iplayer --file-prefix="<name> - <episode> <pid> <version>"  --pid '
 alias myconfig=''
 
 start=$(date +"%T")
+
+# Colin Baker Remembers... The Roads to Freedom
+gip m0019m8l
+
+# The Roads to Freedom
+gip m0019m8q  --pid-recursive
 
 # Benjamin Britten on Camera
 gip b03j42wt
