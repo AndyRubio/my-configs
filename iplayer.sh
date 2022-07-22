@@ -7,6 +7,12 @@ alias myconfig=''
 
 start=$(date +"%T")
 
+# Clive James
+gip p00rzs36 --pid-recursive
+
+# What Ever Happened to Baby Jane?
+gip b007bfnt
+
 # Colin Baker Remembers... The Roads to Freedom
 gip m0019m8l
 
