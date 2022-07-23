@@ -1,5 +1,5 @@
 {
-   "checksum": "88d619da0f40ad00e18df7e12b9fc8d6",
+   "checksum": "27f7524e379e8f5b3140d11a3d9b4398",
    "roots": {
       "bookmark_bar": {
          "children": [ {
@@ -24891,13 +24891,6 @@
             "id": "6",
             "name": "Bookmarks",
             "type": "folder"
-         }, {
-            "date_added": "13302993133905382",
-            "guid": "0bb48694-bcf3-4cfa-b124-e2561f8bec5d",
-            "id": "5333",
-            "name": "What makes a melody catchy? - YouTube",
-            "type": "url",
-            "url": "https://www.youtube.com/watch?v=nxXh8PU4KkI"
          }, {
             "children": [ {
                "children": [ {
