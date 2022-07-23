@@ -497,7 +497,7 @@ gip p09pm77q  --pid-recursive
 gip m000jykc  --pid-recursive
 
 # Proms
-gip b007v097 --pid-recursive
+gip b007v097 --pid-recursive --cuesheet
 
 # Yorkshire Walks
 gip m000cd03 --pid-recursive
