@@ -7,6 +7,12 @@ alias myconfig=''
 
 start=$(date +"%T")
 
+# Scene By Scene
+gip p00g9mvk  --pid-recursive 
+
+# The Roads to Freedom
+gip m0019m8q --pid-recursive 
+
 # Music Planet
 gip b09ymx3v --pid-recursive --cuesheet 
 
