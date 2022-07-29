@@ -7,6 +7,9 @@ alias myconfig=''
 
 start=$(date +"%T")
 
+# Studio 17: The Lost Reggae Tapes
+gip m00095ky
+
 # Scene By Scene
 gip p00g9mvk  --pid-recursive 
 
