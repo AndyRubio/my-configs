@@ -7,6 +7,12 @@ alias myconfig=''
 
 start=$(date +"%T")
 
+# The Capture
+gip m00085sx  --pid-recursive
+
+# The Joy of Mozart
+gip b04yrj6n
+
 # Studio 17: The Lost Reggae Tapes
 gip m00095ky
 
